@@ -29,6 +29,8 @@ plainwhite:
       url: "/resume"
     - title: Publication
       url: "/resume"
+    - title: CV
+      url: "/resume"
   # generate social links in footer
   social_links:
     twitter: sheqi1991
