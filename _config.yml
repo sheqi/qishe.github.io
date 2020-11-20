@@ -24,11 +24,11 @@ plainwhite:
     #- post
   navigation:
     - title: About me
-      url: "/resume"
+      url: "aboutme"
     - title: News
       url: "/resume"
     - title: Publication
-      url: "/resume"
+      url: "publication"
     - title: CV
       url: "/resume"
   # generate social links in footer
