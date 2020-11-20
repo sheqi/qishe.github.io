@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Qi She
-  tagline: Deep Learning, Computer Vision Researher
+  tagline: Deep Learning Researher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -21,7 +21,7 @@ plainwhite:
   condensed_mobile:
     - home
     - page
-    - post
+    #- post
   navigation:
     - title: About me
       url: "/resume"
@@ -34,6 +34,7 @@ plainwhite:
     twitter: sheqi1991
     github:  sheqi
     linkedIn: in/qi-she-57ab259a
+  analytics_id: "G-G9J3D02VP5"
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
