@@ -21,7 +21,7 @@ plainwhite:
   condensed_mobile:
     - home
     - page
-    #- post
+    - post
   navigation:
     - title: About me
       url: "aboutme"
