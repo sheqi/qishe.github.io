@@ -24,7 +24,7 @@ plainwhite:
     - post
   navigation:
     - title: About me
-      url: "aboutme"
+      url: "/aboutme"
     - title: News
       url: "news"
     - title: Publication
