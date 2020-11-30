@@ -21,7 +21,7 @@ subtitle: Publication
 <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="name">
-    <a href="https://EthanYGao.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems.</a>
+    <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems.</a>
   </span>
   <div class="pub-authors" itemprop="author">
   <font color=#0099ff>Qi She</font>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
@@ -50,7 +50,6 @@ subtitle: Publication
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1801.08297">
   arXiv
 </a>
-
 
 
 # plainwhite
