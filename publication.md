@@ -22,7 +22,7 @@ subtitle: Publication
     <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems.</a>
   </span>
   <div class="pub-authors" itemprop="author">
-  <font color=#0099ff>Qi She</font>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
+  <b>Qi She</b>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
   </div>
   <div class="pub-publication">
     <em>AAAI Conference on Artificial Intelligence (AAAI)</em>, 2018.
