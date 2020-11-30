@@ -26,11 +26,11 @@ plainwhite:
     - title: About me
       url: "/aboutme"
     - title: News
-      url: "news"
+      url: "/news"
     - title: Publication
-      url: "publication"
+      url: "/publication"
     - title: CV
-      url: "cv"
+      url: "/cv"
   # generate social links in footer
   social_links:
     twitter: sheqi1991
