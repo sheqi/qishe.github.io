@@ -25,8 +25,6 @@ plainwhite:
   navigation:
     - title: About me
       url: "/aboutme"
-    - title: News
-      url: "/news"
     - title: Publication
       url: "/publication"
     - title: CV

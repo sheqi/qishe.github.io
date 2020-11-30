@@ -1,19 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: xx
+subtitle: Brief Introduction
 ---
 
-Qi was born in Yangzhou (扬州)，Jiangsu (江苏) province. He is now living in Beijing，works as a Research Scientist at Bytedance AI Lab, focusing on landing continual learning, computer vision techniques in Bytedance products. He was a Research Scientist at Intel Labs from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
+Qi was born in Yangzhou (扬州)，Jiangsu (江苏) province. He is now living in Beijing，works as a Research Scientist at Bytedance AI Lab, focusing on landing continual learning, computer vision techniques in Bytedance AI products. He used to be a Research Scientist at Intel Labs from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
 
-He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the City University of Hong Kong where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at Princeton University, advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses. Before directly pursuing my Ph.D., he completed B.Eng. within 1% (2/230) in Information Engineering from NUPT, and his bachelor final year project ranked #1 out of 230.
+He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the City University of Hong Kong where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at Princeton University, advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
 
-Previously, his research focused on statistical machine learning methods to extract hidden structure from high-dimensional neural data, infer brain connectivity using fully & empirical Bayes, and complex network study on multiple brain regions. Studying how information is encoded, decoded, and processed in our brains is one of his interests. Currently, he is developing a lifelong/continual adaptation agent that can shape a cultivated understanding of the world from the current scene and their previous knowledge via an autonomous lifelong development. The ongoing project is listed in "Lifelong Robotic Vision" project page.
+<!--Before directly pursuing my Ph.D., he completed B.Eng. within 1% (2/230) in Information Engineering from NUPT, and his bachelor final year project ranked #1 out of 230. Previously, his research focused on statistical machine learning methods to extract hidden structure from high-dimensional neural data, infer brain connectivity using fully & empirical Bayes, and complex network study on multiple brain regions. Studying how information is encoded, decoded, and processed in our brains is one of his interests. Currently, he is developing a lifelong/continual adaptation agent that can shape a cultivated understanding of the world from the current scene and their previous knowledge via an autonomous lifelong development. The ongoing project is listed in "Lifelong Robotic Vision" project page.-->
 
-At the academy, he has more than 30 peer-reviewed publications. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and competition chair of the CVPR 2020 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, EJN etc.
+Qi has more than 30 peer-reviewed publications. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and competition chair of the CVPR 2020 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, EJN etc. He holds 5 granted/filed US patents. The work is more related to robotics, more broadly autonomous systems using visual learning methods, and developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
 
-In the industry, he holds 5 granted/filed US patents. The work is more related to robotics, more broadly autonomous systems using visual learning methods, and developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
-
+<!--
 # plainwhite
 
 Simplistic jekyll portfolio-style theme for writers.
@@ -236,3 +235,4 @@ The theme is available as open source under the terms of the [MIT License](https
 ## More themes
 
 - [Texture](https://github.com/samarsault/texture)
+-->
