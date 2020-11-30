@@ -24,13 +24,13 @@ plainwhite:
     - post
   navigation:
     - title: About me
-      url: "aboutme"
+      url: "sheqi.github.io/aboutme"
     - title: News
-      url: "news"
+      url: "sheqi.github.io/news"
     - title: Publication
-      url: "publication"
+      url: "sheqi.github.io/publication"
     - title: CV
-      url: "cv"
+      url: "sheqi.github.io/cv"
   # generate social links in footer
   social_links:
     twitter: sheqi1991
