@@ -4,6 +4,35 @@ title: Publication
 subtitle: Publication
 ---
 
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.56.3" />
+  <meta name="author" content="Qi She">
+  <meta name="description" content="Senior Researcher">
+
+
+  <link rel="stylesheet" href="/assets/css/highlight.min.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/academicons.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  <link rel="stylesheet" href="/assets/css/hugo-academic.css">
+
+
+  <link rel="alternate" href="https://sheqi.github.io/index.xml" type="application/rss+xml" title="Welcome to Qi She&#39;s Homepage">
+  <link rel="feed" href="https://sheqi.github.io/index.xml" type="application/rss+xml" title="Welcome to Qi She&#39;s Homepage">
+
+  <link rel="icon" type="image/png" href="/assets/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/assets/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="https://sheqi.github.io/publication/aaai18/">
+
+</head>
+
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>Selected Publications</h1>
