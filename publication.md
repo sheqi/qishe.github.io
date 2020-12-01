@@ -29,19 +29,19 @@ subtitle: Publication
   </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://EthanYGao.github.io/pdf/CVPR2019%20-%20NDDR-CNN.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/AAAI2018.pdf">
   PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://EthanYGao.github.io/bibtex/CVPR19%20-%20NDDR-CNN.bib.txt">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/AAAI18.bib.txt">
   BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ethanygao/NDDR-CNN">
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/">
   Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://EthanYGao.github.io/sm/CVPR2019%20-%20supp%20-%20NDDR-CNN.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/sm/AAAI2018.pdf">
   Supp. Materials
 </a>
 
