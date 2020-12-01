@@ -1,8 +1,3 @@
----
-layout: page
-title: Publication
-subtitle: Publication
----
 
 <head>
 
