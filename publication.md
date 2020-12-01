@@ -27,8 +27,8 @@ subtitle: Publication
   <div class="pub-publication">
     <em>AAAI Conference on Artificial Intelligence (AAAI)</em>, 2018.
   </div>
-<p>
 
+<p>
 <a class="btn btn-primary btn-outline btn-xs" href="https://EthanYGao.github.io/pdf/CVPR2019%20-%20NDDR-CNN.pdf">
   PDF
 </a>
@@ -48,8 +48,8 @@ subtitle: Publication
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1801.08297">
   arXiv
 </a>
-
 </p>
+
 </li>
 </div>
 </div>
