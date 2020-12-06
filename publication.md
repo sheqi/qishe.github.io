@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: publication
 title: publication
 subtitle: publication
 ---
 
 **Publications**
 
+<div id="container-publications">
 <div class="row">
 <div class="col-xs-12 col-md-12">
 <li itemscope itemtype="http://schema.org/CreativeWork">
@@ -44,5 +45,6 @@ arXiv
 </p>
 
 </li>
+</div>
 </div>
 </div>
