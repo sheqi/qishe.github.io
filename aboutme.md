@@ -12,6 +12,17 @@ He obtained Ph.D. in machine learning and neural computation from the Department
 
 Qi has more than 30 peer-reviewed publications. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and competition chair of the CVPR 2020 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, EJN etc. He holds 5 granted/filed US patents. The work is more related to robotics, more broadly autonomous systems using visual learning methods, and developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
 
+
+Specifically, my research interests include topics as:
+
+Optimization & Learning -- During my PhD I was fascinated by second order methods and natural gradient,  on which I spend some time. I am interesting in understanding how we can optimize more efficiently at scale deep models. How we can make learning more data-efficient either in supervised scenarios or RL. 
+Memory & RNNs -- I'm particularly interested in how memory is formed in recurrent models, and what kind of structures can help us utilize memory better (topic I've been working on since my Masters). This ranges from altering the optimizer or adding regularizers to impose different properties to structuring the hidden state of the recurrent model. Several of my published work center around understanding and exploring alternative recurrent model formulations.
+Learning with multiple tasks: Continual Learning, Transfer Learning, Multi-task learning, Curriculum Learning, Meta-learning -- With the explicit goal of improving data efficiency, I have been working on multiple problems formulated around training with multiple tasks. From Continual Learning, when said tasks are explored sequentially, to Transfer Learning, Multi-task learning, Curriculum Learning or Meta-Learning. I've published a few different algorithms that are trying to address these problems from different angles, as well as organized workshop on the topic. 
+Graph Neural Networks -- Adding meaningful structure to neural networks is definitely an important future direction that I believe we need to understand. I have looked at the impact of graph structured neural networks or how to apply neural models to graph structured data, including a recent survey of the field.
+Theory for deep networks (representation/learning) -- I'm interested in understanding how neural networks work. I've been looking in this direction both from a representational angle (what family of functions can they represent for a fixed sized model) as well as from a learning perspective (the structure of the loss surface of these models) and published works on both topics. 
+Reinforcement Learning, Generative Models -- While my work does not focus directly on these topics, I have been a few works in this space and is a topic of interest to me that comes in and out of focus.
+
+
 <!--
 # plainwhite
 

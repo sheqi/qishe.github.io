@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "aa"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "News"
+date:   2020-12-14 21:03:36 +0530
+#categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-```javascript
-const Razorpay = require('razorpay');
+[2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
+[2020-12-09] I am invited as the reviewer for **ICML 2021**.
 
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
+[2020-11-24] Our paper ["Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"][GAN Survey] has been accepted by [ACM Computing Surveys][ACM Computing Surveys]. The journal is ranked 3/221 in Computer Science Theory & Methods (Impact Factor: 7.99):
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[2020-10-21] I am pleased to receive the recognition of top 10% high-scoring reviewers from **NeurIPS 2020**.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[2020-08-14] I join the **Bytedance AI Lab** this month.
+
+[2020-06-14] We have successfully organized the 1st ["Continual Learning in Computer Vision"][CLVISION] workshop at **CVPR 2020**.
+
+[2020-06-10]Our paper "IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions]" has been published at IEEE Robotics & Automation Magazine.
+
+[2020-05-22] Our paper “Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks” has been accepted by **Neurocomputing**.
+
+[2020-01-22] 2 papers have been accepted by **ICRA 2020**: "OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning", and "Are we ready for service robots? The OpenLORIS-scene datasets for lifelong SLAM".
+
+[ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
+[CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
+[GAN Survey]:https://arxiv.org/abs/1906.01529
