@@ -1,8 +1,10 @@
 ---
 layout: page
-title:  "News"
+title:  "Homepage"
 date:   2020-12-14 21:03:36 +0530
 ---
+
+**News**
 
 [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
