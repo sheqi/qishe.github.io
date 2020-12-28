@@ -16,28 +16,27 @@ Qi has more than 30 peer-reviewed publications. He was the organizer of the IROS
 Specifically, his research interests include topics as:
 
 
-**1. Statistical Machine Learning**
+**Statistical Machine Learning**
 
 During his early Ph.D. life, Qi was fascinated by Bayesian theory and used this tool for extracting hidden structure from high-dimensional neural data, inferring brain connectivity. Studying how information is encoded, decoded, and processed in the brain is one of his interests.
 
 
-
-**2. Dynamical Systems & RNNs**
+**Dynamical Systems & RNNs**
 
 He was also interested in modeling time series data, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models. Since simple state transition structures, linear embedding assumptions, or inflexible inference networks all impede the accurate recovery of dynamic portraits. He proposed a novel latent dynamic model that is capable of capturing nonlinear, non-Markovian, long short-term time-dependent dynamics via recurrent neural networks and tackling complex nonlinear embedding via non-parametric Gaussian process.
 
 
-**3. Complex Network & Graph Neural Networks**
+**Complex Network & Graph Neural Networks**
 
 Adding meaningful structure to neural networks is definitely an important future direction that we need to understand. He has looked at the impact of graph structured neural networks or how to apply neural models to graph structured data.
 
 
-**4. Theory for deep neural networks (representation/learning)**
+**Theory for deep neural networks (representation/learning)**
 
 he is interested in understanding how neural networks work via utilizing deep generative models, such as VAE, GAN, and normalizing flow models.
 
 
-**5. Learning with multiple tasks & continuous improvements over single task learning** 
+**Learning with multiple tasks & continuous improvements over single task learning** 
 
 Continual Learning, Transfer Learning, Multi-task learning, Meta-learning, Curriculum Learning and Self-paced Learning -- With the explicit goal of improving data efficiency, he has been working on multiple problems formulated around training with multiple tasks or efficient sampling.
 

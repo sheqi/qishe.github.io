@@ -1,0 +1,6 @@
+@article{wang2019generative,
+  title={Generative adversarial networks in computer vision: A survey and taxonomy},
+  author={Wang, Zhengwei and She, Qi and Ward, Tomas E},
+  journal={arXiv preprint arXiv:1906.01529},
+  year={2019}
+}

@@ -1,0 +1,8 @@
+@inproceedings{she2020neural,
+  title={Neural dynamics discovery via gaussian process recurrent neural networks},
+  author={She, Qi and Wu, Anqi},
+  booktitle={Uncertainty in Artificial Intelligence},
+  pages={454--464},
+  year={2020},
+  organization={PMLR}
+}

@@ -11,36 +11,64 @@ subtitle: publication
 <div class="col-xs-12 col-md-12">
 <li itemscope itemtype="http://schema.org/CreativeWork">
 
-
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems</a>
+        <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
     </span>
     <div class="pub-authors" itemprop="author">
-        <b> Qi She </b><code>*</code>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
+        Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <em>AAAI Conference on Artificial Intelligence (AAAI)</em>, 2018.
+    <em> Accepted into ACM Computing Surveys (CSUR)</em>, 2020.
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/AAAI2018.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CSUR20.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/AAAI18.bib.txt">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/">
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/GAN_Review">
 Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/sm/AAAI2018.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1906.01529">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/uai19/" itemprop="url">Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        <b> Qi She </b><code>*</code>, Anqi Wu.
+    </div>
+    <div class="pub-publication">
+    <em> Uncertainty in Artificial Intelligence (UAI)</em>, 2019.
+    </div>
+
+<p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/UAI2019.pdf">
+PDF
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/UAI19.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/GP-RNN_UAI2019">
+Code
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/sm/UAI2019.pdf">
 Supp. Materials
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1801.08297">
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1907.00650">
 arXiv
 </a>
 </p>
@@ -68,10 +96,6 @@ BibTex
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/">
 Code
-</a>
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/sm/AAAI2018.pdf">
-Supp. Materials
 </a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1801.08297">
