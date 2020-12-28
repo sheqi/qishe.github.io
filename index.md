@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Homepage"
+title:  Homepage
 date:   2020-12-14 21:03:36 +0530
 ---
 
@@ -14,11 +14,11 @@ date:   2020-12-14 21:03:36 +0530
 
 [2020-10-21] I am pleased to receive the recognition of top 10% high-scoring reviewers from **NeurIPS 2020**.
 
-[2020-08-14] I join the **Bytedance AI Lab** as a research scientist this month.
+[2020-08-14] I join the **Bytedance AI Lab** as a research scientist.
 
 [2020-06-14] We have successfully organized the 1st ["Continual Learning in Computer Vision"][CLVISION] workshop at **CVPR 2020**.
 
-[2020-06-10]Our paper "IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions]" has been published at IEEE Robotics & Automation Magazine.
+[2020-06-10] Our paper "IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions]" has been published at IEEE Robotics & Automation Magazine.
 
 [2020-05-22] Our paper “Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks” has been accepted by **Neurocomputing**.
 
