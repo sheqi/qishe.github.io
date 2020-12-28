@@ -23,6 +23,8 @@ plainwhite:
     - page
     - post
   navigation:
+    - title: Homepage
+      url: "/index"
     - title: About me
       url: "/aboutme"
     - title: Publication
