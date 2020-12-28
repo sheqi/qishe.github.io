@@ -6,6 +6,7 @@ date:   2020-12-14 21:03:36 +0530
 
 **News**
 
+
 [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
 [2020-12-09] I am invited as the reviewer for **ICML 2021**.
@@ -27,3 +28,6 @@ date:   2020-12-14 21:03:36 +0530
 [ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
 [GAN Survey]:https://arxiv.org/abs/1906.01529
+
+___________
+**Talks**
