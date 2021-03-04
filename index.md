@@ -5,7 +5,7 @@ date:   2020-12-14 21:03:36 +0530
 ---
 
 **News**
-
+[2020-03-04] We have 3 paper accepted into **CVPR 2021**, congradulations for our collaborators. Codes will be released soon.  
 
 [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
