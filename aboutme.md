@@ -4,7 +4,7 @@ title: About me
 subtitle: Brief Introduction
 ---
 
-Qi was born in Yangzhou (扬州)，Jiangsu (江苏) province. He is now living in Beijing，works as a Research Scientist at Bytedance AI Lab, focusing on landing continual learning, computer vision techniques in Bytedance AI products. He used to be a Research Scientist at Intel Labs from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
+Qi She was born in Yangzhou (扬州)，Jiangsu (江苏) province. He is now living in Beijing，works as a Research Scientist at Bytedance AI Lab, focusing on landing continual learning, computer vision techniques in Bytedance AI products. He used to be a Research Scientist at Intel Labs from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
 
 He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the City University of Hong Kong where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at Princeton University, advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
 
