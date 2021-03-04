@@ -6,7 +6,7 @@ date:   2020-12-14 21:03:36 +0530
 
 **News**
 
-[2020-03-04] We have 3 paper accepted into **CVPR 2021**, congradulations for our collaborators. Codes will be released soon.  
+[2020-03-04] We have **3** paper accepted into **CVPR 2021**, congradulations for our collaborators. Codes will be released soon.  
 
 [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
@@ -24,7 +24,7 @@ date:   2020-12-14 21:03:36 +0530
 
 [2020-05-22] Our paper “Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks” has been accepted by **Neurocomputing**.
 
-[2020-01-22] 2 papers have been accepted by **ICRA 2020**: "OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning", and "Are we ready for service robots? The OpenLORIS-scene datasets for lifelong SLAM".
+[2020-01-22] We have **2** papers accepted by **ICRA 2020**: "OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning", and "Are we ready for service robots? The OpenLORIS-scene datasets for lifelong SLAM".
 
 [ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
