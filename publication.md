@@ -13,6 +13,91 @@ subtitle: publication
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/cvpr21_involution/" itemprop="url">Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
+    </div>
+    <div class="pub-publication">
+    <em> Accepted into CVPR</em>, 2021.
+    </div>
+
+<p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_involution.pdf">
+PDF
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_involution.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/d-li14/involution">
+Code
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.06255">
+arXiv
+</a>
+</p>
+
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/cvpr21_actionnet/" itemprop="url">ACTION-Net: Multipath Excitation for Action Recognition</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
+    </div>
+    <div class="pub-publication">
+    <em> Accepted into CVPR</em>, 2021.
+    </div>
+
+<p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_actionnet.pdf">
+PDF
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_actionnet.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/V-Sense/ACTION-Net">
+Code
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.07372">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/cvpr21_superpixel/" itemprop="url">Learning the Superpixel in a Non-iterative and Lifelong Manner</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Lei Zhu, <b>Qi She</b><code>*</code>, Bin Zhang, Yanye Lu, Zhilin Lu, Duo Li, Jie Hu.
+    </div>
+    <div class="pub-publication">
+    <em> Accepted into CVPR</em>, 2021.
+    </div>
+
+<p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_superpixel.pdf">
+PDF
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_superpixel.bib.txt">
+BibTex
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.10681">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
         <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -39,6 +124,7 @@ Code
 arXiv
 </a>
 </p>
+
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
