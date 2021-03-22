@@ -1,0 +1,6 @@
+@inproceedings{zhu2021superpixel,
+  title={Learning the Superpixel in a Non-iterative and Lifelong Manner},
+  author={Lei Zhu and Qi She and Bin Zhang and Yanye Lu and Zhilin Lu and Duo Li and Jie Hu},
+  booktitle={Computer Vision and Pattern Recognition},
+  year={2021}
+}

@@ -1,0 +1,6 @@
+@inproceedings{wang2021actionnet,
+  title={ACTION-Net: Multipath Excitation for Action Recognition},
+  author={Zhengwei Wang and Qi She and Aljosa Smolic},
+  booktitle={Computer Vision and Pattern Recognition},
+  year={2021}
+}
