@@ -23,11 +23,11 @@ subtitle: publication
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_involution.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_involution.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_involution.bib.txt">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_involution.bib.txt">
 BibTex
 </a>
 
@@ -53,11 +53,11 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_actionnet.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_actionnet.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_actionnet.bib.txt">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_actionnet.bib.txt">
 BibTex
 </a>
 
@@ -82,11 +82,11 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR21_superpixel.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_superpixel.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/cvpr21_superpixel.bib.txt">
+<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_superpixel.bib.txt">
 BibTex
 </a>
 
