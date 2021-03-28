@@ -34,12 +34,12 @@ Specifically, his research interests include topics as:
 - Adding meaningful structure to neural networks is definitely an important future direction that we need to understand. He has looked at the impact of graph structured neural networks or how to apply neural models to graph structured data.
 
 
-**Theory for deep neural networks (representation/learning)**
+**Theory for Representation Learning**
 
 - He is interested in understanding how neural networks work via utilizing deep generative models, such as VAE, GAN, and normalizing flow models.
 
 
-**Learning with multiple tasks & continuous improvements over single task learning** 
+**Advanced Learning Method**
 
 - Continual Learning, Transfer Learning, Multi-task learning, Meta-learning, Curriculum Learning and Self-paced Learning -- With the explicit goal of improving data efficiency, he has been working on multiple problems formulated around training with multiple tasks or efficient sampling.
 

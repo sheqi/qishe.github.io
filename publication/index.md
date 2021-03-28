@@ -138,6 +138,10 @@ arXiv
     </div>
 
 <p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=oEIIFZRjObc">
+Oral
+</a>
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/UAI2019.pdf">
 PDF
 </a>
