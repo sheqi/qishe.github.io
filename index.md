@@ -10,7 +10,7 @@ date:   2020-12-14 21:03:36 +0530
 
 [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
-[2020-12-09] I am invited as the reviewer for **ICML 2021**.
+[2020-12-09] I am invited as the expert reviewer for **ICML 2021**.
 
 [2020-11-24] Our paper ["Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"][GAN Survey] has been accepted by [ACM Computing Surveys][ACM Computing Surveys]. The journal is ranked 3/221 in Computer Science Theory & Methods (Impact Factor: 7.99):
 
