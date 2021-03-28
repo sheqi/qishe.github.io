@@ -30,6 +30,6 @@ date:   2020-12-14 21:03:36 +0530
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
 [GAN Survey]:https://arxiv.org/abs/1906.01529
 
-
+## **Awards**
 
 ## **Talks**

@@ -4,7 +4,7 @@ title: publication
 subtitle: publication
 ---
 
-**Publications**
+### **Publication**
 
 <div id="container-publications">
 <div class="row">
