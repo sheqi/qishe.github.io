@@ -19,8 +19,10 @@ subtitle: publication
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
+    <em> Accepted into CVPR</em>, 2021.
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
     </div>
+
 
 
 <p>
@@ -50,7 +52,7 @@ arXiv
         Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021.
+    <em> Accepted into CVPR</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
     </div>
 
 <p>
@@ -64,11 +66,6 @@ BibTex
 
 <a class="btn btn-default" href="https://github.com/V-Sense/ACTION-Net">
 Code
-</a>
-
-
-<a class="btn btn-link">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
 </a>
 
 <a class="btn btn-default" href="https://arxiv.org/abs/2103.07372">
@@ -110,7 +107,7 @@ arXiv
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <em> Accepted into ACM Computing Surveys (CSUR)</em>, 2020.
+    <em> Accepted into ACM Computing Surveys (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
@@ -124,10 +121,6 @@ BibTex
 
 <a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
 Code
-</a>
-
-<a class="btn btn-link">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
 </a>
 
 <a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
@@ -144,7 +137,7 @@ arXiv
         <b> Qi She </b><code>*</code>, Anqi Wu.
     </div>
     <div class="pub-publication">
-    <em> Uncertainty in Artificial Intelligence (UAI)</em>, 2019.
+    <em> Uncertainty in Artificial Intelligence (UAI)</em>, 2019. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
     </div>
 
 <p>
@@ -162,10 +155,6 @@ BibTex
 
 <a class="btn btn-default" href="https://github.com/sheqi/GP-RNN_UAI2019">
 Code
-</a>
-
-<a class="btn btn-link">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
 </a>
 
 <a class="btn btn-default" href="https://sheqi.github.io/sm/UAI2019.pdf">
