@@ -19,7 +19,7 @@ subtitle: publication
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021.
+    <em> Accepted into CVPR</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
     </div>
 
 
@@ -34,10 +34,6 @@ BibTex
 
 <a class="btn btn-default" href="https://github.com/d-li14/involution">
 Code
-</a>
-
-<a class="btn btn-link">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
 </a>
 
 <a class="btn btn-default" href="https://arxiv.org/abs/2103.06255">
