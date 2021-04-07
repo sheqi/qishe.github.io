@@ -36,7 +36,9 @@ BibTex
 Code
 </a>
 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/DenseCL?label=Stars&style=social">
+<a>
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
+</a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.06255">
 arXiv
