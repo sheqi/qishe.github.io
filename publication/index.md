@@ -22,7 +22,12 @@ subtitle: publication
     <em> Accepted into CVPR</em>, 2021.
     </div>
 
+
 <p>
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/DenseCL?label=Stars&style=social">
+
+
 <a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_involution.pdf">
 PDF
 </a>
