@@ -37,8 +37,7 @@ Code
 </a>
 
 <a>
-<img src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
-GitHub stars
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
 </a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.06255">
