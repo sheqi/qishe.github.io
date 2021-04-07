@@ -24,10 +24,6 @@ subtitle: publication
 
 
 <p>
-
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/DenseCL?label=Stars&style=social">
-
-
 <a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_involution.pdf">
 PDF
 </a>
@@ -39,6 +35,8 @@ BibTex
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/d-li14/involution">
 Code
 </a>
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/WXinlong/DenseCL?label=Stars&style=social">
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.06255">
 arXiv
