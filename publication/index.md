@@ -37,7 +37,6 @@ Code
 </a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/d-li14/involution">
-Stars
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
 </a>
 
