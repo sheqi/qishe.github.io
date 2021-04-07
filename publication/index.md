@@ -28,11 +28,11 @@ subtitle: publication
 PDF
 </a>
 
-<a class="btn btn-primary" href="https://sheqi.github.io/bibtex/CVPR21_involution.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR21_involution.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-success" href="https://github.com/d-li14/involution">
+<a class="btn btn-default" href="https://github.com/d-li14/involution">
 Code
 </a>
 
@@ -40,7 +40,7 @@ Code
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
 </a>
 
-<a class="btn btn-warning" href="https://arxiv.org/abs/2103.06255">
+<a class="btn btn-default" href="https://arxiv.org/abs/2103.06255">
 arXiv
 </a>
 </p>
@@ -58,19 +58,24 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_actionnet.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CVPR2021_actionnet.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_actionnet.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR21_actionnet.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/V-Sense/ACTION-Net">
+<a class="btn btn-default" href="https://github.com/V-Sense/ACTION-Net">
 Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.07372">
+
+<a class="btn btn-link">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/2103.07372">
 arXiv
 </a>
 </p>
@@ -87,16 +92,16 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_superpixel.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CVPR2021_superpixel.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_superpixel.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR21_superpixel.bib.txt">
 BibTex
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.10681">
+<a class="btn btn-default" href="https://arxiv.org/abs/2103.10681">
 arXiv
 </a>
 </p>
@@ -113,19 +118,23 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/GAN_Review">
+<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
 Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1906.01529">
+<a class="btn btn-link">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
 arXiv
 </a>
 </p>
@@ -143,27 +152,31 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=oEIIFZRjObc">
+<a class="btn btn-default" href="https://www.youtube.com/watch?v=oEIIFZRjObc">
 Oral
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/UAI2019.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/UAI2019.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/UAI19.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/UAI19.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/GP-RNN_UAI2019">
+<a class="btn btn-default" href="https://github.com/sheqi/GP-RNN_UAI2019">
 Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/sm/UAI2019.pdf">
+<a class="btn btn-link">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/sm/UAI2019.pdf">
 Supp. Materials
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1907.00650">
+<a class="btn btn-default" href="https://arxiv.org/abs/1907.00650">
 arXiv
 </a>
 </p>
@@ -181,19 +194,19 @@ arXiv
     </div>
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/AAAI2018.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/AAAI2018.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/AAAI18.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/AAAI18.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/sheqi/">
+<a class="btn btn-default" href="https://github.com/sheqi/">
 Code
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1801.08297">
+<a class="btn btn-default" href="https://arxiv.org/abs/1801.08297">
 arXiv
 </a>
 </p>
