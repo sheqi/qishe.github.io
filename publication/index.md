@@ -24,23 +24,23 @@ subtitle: publication
 
 
 <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/pdf/CVPR2021_involution.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CVPR2021_involution.pdf">
 PDF
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://sheqi.github.io/bibtex/CVPR21_involution.bib.txt">
+<a class="btn btn-primary" href="https://sheqi.github.io/bibtex/CVPR21_involution.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/d-li14/involution">
+<a class="btn btn-success" href="https://github.com/d-li14/involution">
 Code
 </a>
 
-<a class="btn btn-primary btn-xs">
+<a class="btn btn-link">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
 </a>
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2103.06255">
+<a class="btn btn-warning" href="https://arxiv.org/abs/2103.06255">
 arXiv
 </a>
 </p>
