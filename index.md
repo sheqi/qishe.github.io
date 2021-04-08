@@ -5,6 +5,7 @@ date:   2020-12-14 21:03:36 +0530
 ---
 
 ### **News**
+- [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
 
 - [2021-03-04] We have **3** paper accepted into **CVPR 2021**, congradulations for our collaborators.
 
