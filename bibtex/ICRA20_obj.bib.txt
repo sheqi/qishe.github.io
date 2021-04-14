@@ -1,0 +1,8 @@
+@inproceedings{she2020openloris,
+  title={OpenLORIS-Object: A robotic vision dataset and benchmark for lifelong deep learning},
+  author={She, Qi and Feng, Fan and Hao, Xinyue and Yang, Qihan and Lan, Chuanlin and Lomonaco, Vincenzo and Shi, Xuesong and Wang, Zhengwei and Guo, Yao and Zhang, Yimin and others},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={4767--4773},
+  year={2020},
+  organization={IEEE}
+}

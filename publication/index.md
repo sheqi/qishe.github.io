@@ -131,6 +131,40 @@ arXiv
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/icra20_openloris_obj/" itemprop="url">OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        <b>Qi She</b><code>*</code>, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan.
+    </div>
+    <div class="pub-publication">
+    <em> Published at ICRA</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICRA2020_obj.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICRA20_obj.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://lifelong-robotic-vision.github.io/dataset/object">
+Project page
+</a>
+
+<a class="btn btn-default" href="https://github.com/lifelong-robotic-vision/OpenLORIS-Object">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1911.06487">
+arXiv
+</a>
+</p>
+
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
         <a href="https://sheqi.github.io/publication/uai19/" itemprop="url">Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</a>
     </span>
     <div class="pub-authors" itemprop="author">
