@@ -25,17 +25,19 @@ plainwhite:
   navigation:
     - title: Homepage
       url: "/index"
-    - title: About me
-      url: "/aboutme"
     - title: Publication
       url: "/publication"
+    - title: About me
+      url: "/aboutme"
     - title: CV
       url: "/cv"
   # generate social links in footer
   social_links:
-    twitter: sheqi1991
+    google scholar:
+    wordpress: 
     github:  sheqi
     linkedIn: in/qi-she-57ab259a
+    twitter: sheqi1991
   analytics_id: "G-G9J3D02VP5"
     #rss: rss
     #dribbble: jekyll

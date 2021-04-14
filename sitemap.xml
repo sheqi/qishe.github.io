@@ -39,6 +39,18 @@
     </url>
 
     <url>
+      <loc>https://sheqi.github.io/publication/icra20_openloris_obj/</loc>
+      <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+
+    <url>
+      <loc>https://sheqi.github.io/publication/icra20_openloris_scene/</loc>
+      <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+
+    <url>
       <loc>https://sheqi.github.io/publication/uai19/</loc>
       <lastmod>2020-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>

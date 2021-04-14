@@ -162,6 +162,34 @@ arXiv
 </a>
 </p>
 
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/icra20_openloris_scene/" itemprop="url">Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+     Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, <b>Qi She</b><code>*</code>
+    </div>
+    <div class="pub-publication">
+    <em> Published at ICRA</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICRA2020_Scene.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICRA20_scene.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://lifelong-robotic-vision.github.io/dataset/scene">
+Project page
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1911.05603">
+arXiv
+</a>
+</p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">

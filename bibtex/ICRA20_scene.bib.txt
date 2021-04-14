@@ -1,0 +1,8 @@
+@inproceedings{shi2020we,
+  title={Are we ready for service robots? The OpenLORIS-scene datasets for lifelong SLAM},
+  author={Shi, Xuesong and Li, Dongjiang and Zhao, Pengpeng and Tian, Qinbin and Tian, Yuxin and Long, Qiwei and Zhu, Chunhao and Song, Jingwei and Qiao, Fei and Song, Le and others},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={3139--3145},
+  year={2020},
+  organization={IEEE}
+}
