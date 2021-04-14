@@ -41,10 +41,3 @@ date:   2020-12-14 21:03:36 +0530
 - Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, 戈登·摩尔奖)
 
 ## **Talks**
-
-<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
-	{% include clastrmap.html %}
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
-</div>
-</div >
