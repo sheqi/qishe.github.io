@@ -19,10 +19,9 @@ subtitle: publication
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021.
+    <em> Accepted into <b>CVPR</b></em>, 2021.
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
     </div>
-
 
 
 <p>
@@ -52,7 +51,7 @@ arXiv
         Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
+    <em> Accepted into <b>CVPR</b></em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
     </div>
 
 <p>
@@ -81,7 +80,7 @@ arXiv
         Lei Zhu, <b>Qi She</b><code>*</code>, Bin Zhang, Yanye Lu, Zhilin Lu, Duo Li, Jie Hu.
     </div>
     <div class="pub-publication">
-    <em> Accepted into CVPR</em>, 2021.
+    <em> Accepted into <b>CVPR</b></em>, 2021.
     </div>
 
 <p>
@@ -107,7 +106,7 @@ arXiv
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <em> Accepted into ACM Computing Surveys (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    <em> <b>ACM Computing Surveys</b> (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
@@ -137,7 +136,7 @@ arXiv
         <b>Qi She</b><code>*</code>, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <em> Published at ICRA</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    <em> The International Conference on Robotics and Automation (<b>ICRA</b>)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
     </div>
 
 <p>
@@ -170,7 +169,7 @@ arXiv
      Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, <b>Qi She</b><code>*</code>
     </div>
     <div class="pub-publication">
-    <em> Published at ICRA</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    <em> The International Conference on Robotics and Automation (<b>ICRA</b>)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
     </div>
 
 <p>
@@ -199,7 +198,7 @@ arXiv
         <b> Qi She </b><code>*</code>, Anqi Wu.
     </div>
     <div class="pub-publication">
-    <em> Uncertainty in Artificial Intelligence (UAI)</em>, 2019. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
+    <em> Uncertainty in Artificial Intelligence (<b>UAI</b>)</em>, 2019. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
     </div>
 
 <p>
@@ -237,7 +236,7 @@ arXiv
         <b> Qi She </b><code>*</code>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
     </div>
     <div class="pub-publication">
-    <em>AAAI Conference on Artificial Intelligence (AAAI)</em>, 2018.
+    <em>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</em>, 2018.
     </div>
 
 <p>

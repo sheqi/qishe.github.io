@@ -33,8 +33,6 @@ plainwhite:
       url: "/cv"
   # generate social links in footer
   social_links:
-    google scholar:
-    wordpress: 
     github:  sheqi
     linkedIn: in/qi-she-57ab259a
     twitter: sheqi1991
@@ -67,4 +65,4 @@ theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
