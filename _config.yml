@@ -29,8 +29,8 @@ plainwhite:
       url: "/publication"
     - title: About me
       url: "/aboutme"
-    - title: CV
-      url: "/cv"
+    #- title: CV
+    #  url: "/cv"
   # generate social links in footer
   social_links:
     github:  sheqi

@@ -4,7 +4,7 @@ title: publication
 subtitle: publication
 ---
 
-### **Publication**
+### **Selected Publication**
 
 <div id="container-publications">
 <div class="row">
@@ -19,7 +19,7 @@ subtitle: publication
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
     </div>
     <div class="pub-publication">
-    <em> Accepted into <b>CVPR</b></em>, 2021.
+    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021.
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
     </div>
 
@@ -51,7 +51,7 @@ arXiv
         Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
     </div>
     <div class="pub-publication">
-    <em> Accepted into <b>CVPR</b></em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
+    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
     </div>
 
 <p>
@@ -80,7 +80,7 @@ arXiv
         Lei Zhu, <b>Qi She</b><code>*</code>, Bin Zhang, Yanye Lu, Zhilin Lu, Duo Li, Jie Hu.
     </div>
     <div class="pub-publication">
-    <em> Accepted into <b>CVPR</b></em>, 2021.
+    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021.
     </div>
 
 <p>

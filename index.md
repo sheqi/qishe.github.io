@@ -37,5 +37,7 @@ date:   2020-12-14 21:03:36 +0530
 [IEEE RAM]: https://ieeexplore.ieee.org/document/9113359
 
 ## **Awards**
+- 5 times Intel China Awards
+- Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, 戈登·摩尔奖)
 
 ## **Talks**
