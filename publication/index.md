@@ -11,13 +11,6 @@ subtitle: publication
 <div class="col-xs-12 col-md-12">
 <li itemscope itemtype="http://schema.org/CreativeWork">
 
-
-## Journal
-<a class="btn btn-default" href="https://arxiv.org/abs/2103.10681">
-arXiv
-</a>
-</p>
-
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
         <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
@@ -47,7 +40,6 @@ arXiv
 </a>
 </p>
 
-## Conference
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
         <a href="https://sheqi.github.io/publication/cvpr21_involution/" itemprop="url">Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
@@ -256,10 +248,6 @@ Code
 arXiv
 </a>
 </p>
-
-## Workshop
-
-
 
 </li>
 </div>
