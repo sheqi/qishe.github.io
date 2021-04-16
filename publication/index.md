@@ -119,6 +119,8 @@ PDF
 <a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR21_superpixel.bib.txt">
 BibTex
 </a>
+</p>
+
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
