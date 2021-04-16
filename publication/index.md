@@ -4,13 +4,50 @@ title: publication
 subtitle: publication
 ---
 
-### **Selected Publication**
+### **Selected Top-tier Publication**
 
 <div id="container-publications">
 <div class="row">
 <div class="col-xs-12 col-md-12">
 <li itemscope itemtype="http://schema.org/CreativeWork">
 
+
+## Journal
+<a class="btn btn-default" href="https://arxiv.org/abs/2103.10681">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
+    </div>
+    <div class="pub-publication">
+    <em> <b>ACM Computing Surveys</b> (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
+arXiv
+</a>
+</p>
+
+## Conference
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
         <a href="https://sheqi.github.io/publication/cvpr21_involution/" itemprop="url">Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
@@ -41,7 +78,6 @@ Code
 arXiv
 </a>
 </p>
-
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
@@ -91,42 +127,6 @@ PDF
 <a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR21_superpixel.bib.txt">
 BibTex
 </a>
-
-
-<a class="btn btn-default" href="https://arxiv.org/abs/2103.10681">
-arXiv
-</a>
-</p>
-
-<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
-        <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
-    </span>
-    <div class="pub-authors" itemprop="author">
-        Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
-    </div>
-    <div class="pub-publication">
-    <em> <b>ACM Computing Surveys</b> (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
-    </div>
-
-<p>
-<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
-PDF
-</a>
-
-<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
-BibTex
-</a>
-
-<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
-Code
-</a>
-
-<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
-arXiv
-</a>
-</p>
-
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
@@ -256,6 +256,9 @@ Code
 arXiv
 </a>
 </p>
+
+## Workshop
+
 
 
 </li>
