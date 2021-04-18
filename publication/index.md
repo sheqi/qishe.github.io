@@ -6,7 +6,8 @@ subtitle: publication
 
 ### **Selected Top-tier Publication**
 
-## **Journal**
+## **Conference**
+
 <div id="container-publications">
 <div class="row">
 <div class="col-xs-12 col-md-12">
@@ -222,9 +223,6 @@ arXiv
 </a>
 </p>
 
-
-## **Conference**
-
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
         <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems</a>
@@ -258,6 +256,8 @@ arXiv
 </div>
 </div>
 </div>
+
+## **Conference**
 
 <div id="container-publications">
 <div class="row">
