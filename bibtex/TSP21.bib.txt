@@ -1,0 +1,6 @@
+@article{she2016efficient,
+  title={An Efficient and Flexible Spike Train Model via Empirical Bayes},
+  author={She, Qi and Wu, Xiaoli and Jelfs, Beth and Charles, Adam S and Chan, Rosa HM},
+  journal={arXiv preprint arXiv:1605.02869},
+  year={2016}
+}
