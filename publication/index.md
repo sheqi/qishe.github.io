@@ -351,7 +351,7 @@ arXiv
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a href="https://sheqi.github.io/publication/icassp18/" itemprop="url"></a>
+        <a href="https://sheqi.github.io/publication/icassp18/" itemprop="url">Stochastic Dynamical Systems Based Latent Structure Discovery in High-dimensional Time Series</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Rosa H.M. Chan.
@@ -368,7 +368,6 @@ PDF
 <a class="btn btn-default" href="https://sheqi.github.io/SM/ICASSP18.pdf">
 Poster
 </a>
-</p>
 
 <a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICASSP18.bib.txt">
 BibTex
