@@ -31,13 +31,22 @@ date:   2020-12-14 21:03:36 +0530
 
 - [2020-01-22] We have **2** papers regarding **lifelong robotic vision** accepted by **ICRA 2020**.
 
+
+## **Awards**
+- 5 times Intel China Awards, 2018-2020
+- Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, 戈登·摩尔奖), 2020
+- 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
+- Outstanding Academic Performance Award, 2016
+
+## **Talks**
+- “Reduced-Rank Linear Dynamical Systems”, Spotlight talk of AAAI2018 at Hilton New Orleans Riverside, New Orleans, Louisiana, USA, Feb. 2018
+- “Explicit and Implicit Networks of Neural Ensembles”, Oral presentation of Research Symposium for MSc and Research Students in City U., Nov. 2016
+- “Effective Connectivity Matrix for Neural Ensembles”, Oral presentation of the 8th Annual Student Competition of IEEE-EMBS HK-Macau Joint Chapter, Aug. 2016
+- “Ealuating the Small-World-Ness of a Sampled Network”, Seminar Series on Complex Systems, Networks, Control and Applications, Mar. 2016
+- “Reconstruction of Neural Network Topology Using Spike Train Data: Small-World Features of Hippocampal Network”, Oral presentation of International Conference of the IEEE EMBS, Aug. 2015.
+
 [ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
 [GAN Survey]:https://arxiv.org/abs/1906.01529
 [IEEE RAM]: https://ieeexplore.ieee.org/document/9113359
-
-## **Awards**
-- 5 times Intel China Awards
-- Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, 戈登·摩尔奖)
-
-## **Talks**
+[AI hackathon]: https://www.youtube.com/watch?v=u0RCcuZpmxg
