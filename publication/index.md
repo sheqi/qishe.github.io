@@ -71,6 +71,61 @@ arXiv
 </a>
 </p>
 
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/tsp21/" itemprop="url">Synthetic-Neuroscore: Using a Neuro-AI Interface for Evaluating Generative Adversarial Networks</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+     Zhengwei Wang, <b> Qi She </b><code>*</code>, Alan F Smeaton, Tomas E Ward, Graham Healy.
+    </div>
+    <div class="pub-publication">
+    <em> <b>Neurocomputing</b></em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/NC20.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/NC21.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/villawang/Neuro-AI-Interface">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1905.04243">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/tsp21/" itemprop="url">Evaluating the Small-World-Ness of a Sampled Network: Functional Connectivity of Entorhinal-Hippocampal Circuitry</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+     <b> Qi She </b><code>*</code>, Guanrong Chen, Rosa H. M. Chan.
+    </div>
+    <div class="pub-publication">
+    <em> <b>Nature Scientific Reports</b></em>, 2016.
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/NSR2016.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/NSR21.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://www.nature.com/articles/srep21468">
+Nature Scientific Reports
+</a>
+</p>
+
 </li>
 </div>
 </div>
@@ -291,6 +346,32 @@ Code
 
 <a class="btn btn-default" href="https://arxiv.org/abs/1801.08297">
 arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <a href="https://sheqi.github.io/publication/icassp18/" itemprop="url"></a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        <b> Qi She </b><code>*</code>, Rosa H.M. Chan.
+    </div>
+    <div class="pub-publication">
+    <em>The international Conference on Acoustics, Speech, & Signal Processing (<b>ICASSP</b>)</em>, 2018.
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICASSP2018.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/SM/ICASSP18.pdf">
+Poster
+</a>
+</p>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICASSP18.bib.txt">
+BibTex
 </a>
 </p>
 

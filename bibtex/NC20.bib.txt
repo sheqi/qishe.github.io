@@ -1,0 +1,9 @@
+@article{wang2020synthetic,
+  title={Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks},
+  author={Wang, Zhengwei and She, Qi and Smeaton, Alan F and Ward, Tomas E and Healy, Graham},
+  journal={Neurocomputing},
+  volume={405},
+  pages={26--36},
+  year={2020},
+  publisher={Elsevier}
+}

@@ -1,0 +1,8 @@
+@inproceedings{she2018stochastic,
+  title={Stochastic dynamical systems based latent structure discovery in high-dimensional time series},
+  author={She, Qi and Chan, Rosa HM},
+  booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={886--890},
+  year={2018},
+  organization={IEEE}
+}

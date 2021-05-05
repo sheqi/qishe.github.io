@@ -1,0 +1,10 @@
+@article{she2016evaluating,
+  title={Evaluating the small-world-ness of a sampled network: Functional connectivity of entorhinal-hippocampal circuitry},
+  author={She, Qi and Chen, Guanrong and Chan, Rosa HM},
+  journal={Scientific reports},
+  volume={6},
+  number={1},
+  pages={1--13},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
