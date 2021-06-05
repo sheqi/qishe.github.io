@@ -5,7 +5,7 @@ date:   2020-12-14 21:03:36 +0530
 ---
 
 ### **News**
-- [<font color="#dd0000">**New!**</font> 2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
+- [**<font color="#dd0000">New!</font>** 2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
 
 - [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
 
