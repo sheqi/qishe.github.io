@@ -11,17 +11,17 @@ subtitle: publication
 <div id="container-publications">
 <div class="row">
 <div class="col-xs-12 col-md-12">
-<li itemscope itemtype="http://schema.org/CreativeWork">
+
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[1]
         <a href="https://sheqi.github.io/publication/csur20/" itemprop="url">Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <em> <b>ACM Computing Surveys</b> (CSUR)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    <b>ACM Computing Surveys (CSUR)</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
@@ -43,14 +43,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[2]
         <a href="https://sheqi.github.io/publication/tsp21/" itemprop="url">An Effcient and Flexible Spike Train Model via Empirical Bayes</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Xiaoli Wu, Beth Jelfs, Adam S. Charles, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <em> <b>IEEE Transactions on Signal Processing</b> (TSP)</em>, 2021. 
+    <b>IEEE Transactions on Signal Processing (TSP)</b>, 2021. 
     </div>
 
 <p>
@@ -73,14 +73,14 @@ arXiv
 
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[3]
         <a href="https://sheqi.github.io/publication/tsp21/" itemprop="url">Synthetic-Neuroscore: Using a Neuro-AI Interface for Evaluating Generative Adversarial Networks</a>
     </span>
     <div class="pub-authors" itemprop="author">
      Zhengwei Wang, <b> Qi She </b><code>*</code>, Alan F Smeaton, Tomas E Ward, Graham Healy.
     </div>
     <div class="pub-publication">
-    <em> <b>Neurocomputing</b></em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
+    <b>Neurocomputing</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
     </div>
 
 <p>
@@ -102,14 +102,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[4]
         <a href="https://sheqi.github.io/publication/tsp21/" itemprop="url">Evaluating the Small-World-Ness of a Sampled Network: Functional Connectivity of Entorhinal-Hippocampal Circuitry</a>
     </span>
     <div class="pub-authors" itemprop="author">
      <b> Qi She </b><code>*</code>, Guanrong Chen, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <em> <b>Nature Scientific Reports</b></em>, 2016.
+    <b>Nature Scientific Reports</b>, 2016.
     </div>
 
 <p>
@@ -136,17 +136,17 @@ Nature Scientific Reports
 <div id="container-publications">
 <div class="row">
 <div class="col-xs-12 col-md-12">
-<li itemscope itemtype="http://schema.org/CreativeWork">
+
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[1]
         <a href="https://sheqi.github.io/publication/cvpr21_involution/" itemprop="url">Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
     </span>
     <div class="pub-authors" itemprop="author">
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
     </div>
     <div class="pub-publication">
-    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021.
+    Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021.
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/d-li14/involution?label=Stars&style=social">
     </div>
 
@@ -170,14 +170,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[2]
         <a href="https://sheqi.github.io/publication/cvpr21_actionnet/" itemprop="url">ACTION-Net: Multipath Excitation for Action Recognition</a>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
     </div>
     <div class="pub-publication">
-    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
+    Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/V-Sense/ACTION-Net?label=Stars&style=social">
     </div>
 
 <p>
@@ -199,14 +199,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[3]
         <a href="https://sheqi.github.io/publication/cvpr21_superpixel/" itemprop="url">Learning the Superpixel in a Non-iterative and Lifelong Manner</a>
     </span>
     <div class="pub-authors" itemprop="author">
         Lei Zhu, <b>Qi She</b><code>*</code>, Bin Zhang, Yanye Lu, Zhilin Lu, Duo Li, Jie Hu.
     </div>
     <div class="pub-publication">
-    <em> Accepted into Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</em>, 2021.
+    Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2021.
     </div>
 
 <p>
@@ -221,14 +221,14 @@ BibTex
 
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[4]
         <a href="https://sheqi.github.io/publication/icra20_openloris_obj/" itemprop="url">OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b>Qi She</b><code>*</code>, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <em> The International Conference on Robotics and Automation (<b>ICRA</b>)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    The International Conference on Robotics and Automation (<b>ICRA</b>), 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
     </div>
 
 <p>
@@ -254,14 +254,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[5]
         <a href="https://sheqi.github.io/publication/icra20_openloris_scene/" itemprop="url">Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM</a>
     </span>
     <div class="pub-authors" itemprop="author">
      Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, <b>Qi She</b><code>*</code>
     </div>
     <div class="pub-publication">
-    <em> The International Conference on Robotics and Automation (<b>ICRA</b>)</em>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
+    The International Conference on Robotics and Automation (<b>ICRA</b>), 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/lifelong-robotic-vision/lifelong-robotic-vision.github.io?label=Stars&style=social">
     </div>
 
 <p>
@@ -283,14 +283,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[6]
         <a href="https://sheqi.github.io/publication/uai19/" itemprop="url">Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Anqi Wu.
     </div>
     <div class="pub-publication">
-    <em> Uncertainty in Artificial Intelligence (<b>UAI</b>)</em>, 2019. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
+    Uncertainty in Artificial Intelligence (<b>UAI</b>), 2019. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GP-RNN_UAI2019?label=Stars&style=social">
     </div>
 
 <p>
@@ -321,14 +321,14 @@ arXiv
 
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[7]
         <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
     </div>
     <div class="pub-publication">
-    <em>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</em>, 2018.
+    AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2018.
     </div>
 
 <p>
@@ -350,14 +350,14 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">
+    <span itemprop="name">[8]
         <a href="https://sheqi.github.io/publication/icassp18/" itemprop="url">Stochastic Dynamical Systems Based Latent Structure Discovery in High-dimensional Time Series</a>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Rosa H.M. Chan.
     </div>
     <div class="pub-publication">
-    <em>The international Conference on Acoustics, Speech, & Signal Processing (<b>ICASSP</b>)</em>, 2018.
+    The international Conference on Acoustics, Speech, & Signal Processing (<b>ICASSP</b>), 2018.
     </div>
 
 <p>
