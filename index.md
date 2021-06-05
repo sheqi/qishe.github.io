@@ -5,7 +5,7 @@ date:   2020-12-14 21:03:36 +0530
 ---
 
 ### **News**
-- [2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
+- [<font color="#dd0000">**New!**</font> 2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
 
 - [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
 
@@ -34,7 +34,7 @@ date:   2020-12-14 21:03:36 +0530
 
 ## **Awards**
 - 5 times Intel China Awards, 2018-2020
-- Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, 戈登·摩尔奖), 2020
+- Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, <b>戈登·摩尔奖</b>), 2020
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
 - Outstanding Academic Performance Award, 2016
 

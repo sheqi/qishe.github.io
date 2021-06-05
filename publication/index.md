@@ -126,7 +126,6 @@ Nature Scientific Reports
 </a>
 </p>
 
-</li>
 </div>
 </div>
 </div>
@@ -374,7 +373,6 @@ BibTex
 </a>
 </p>
 
-</li>
 </div>
 </div>
 </div>
