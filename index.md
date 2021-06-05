@@ -4,16 +4,23 @@ title:  Qi She
 date:   2020-12-14 21:03:36 +0530
 ---
 
+I am currently a research scientist at ByteDance, focusing on applying machine learning and computer vision techniques in Bytedance AI products. Before that, I was a research scientist at Intel Labs.
+
+[**<font color="#dd0000">Hiring!</font>**] Recruiting scientists, engineers, and research/engineering interns in machine learning or computer vision at Beijing, Shanghai and Singapore. Feel free to [contact me](mailto:sheqi.roger@bytedance.com) !
+
+[**<font color="#dd0000">Call for paper!</font>**] [CVPR 2021 workshop on continual learning in computer vision](https://sites.google.com/view/clvision2021/call-for-papers).
+
+
 ### **News**
 - [**<font color="#dd0000">New!</font>** 2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
 
 - [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
 
-- [2021-03-04] We have **3** paper accepted into **CVPR 2021**, congradulations for our collaborators.
+- [2021-03-04] We have **3** paper accepted into **CVPR 2021** !
 
 - [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
-- [2020-12-09] I am invited as the expert reviewer for **ICML 2021**.
+- [2020-12-09] I am invited as the **expert reviewer** for **ICML 2021**.
 
 - [2020-11-24] Our paper ["Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"][GAN Survey] has been accepted by [ACM Computing Surveys][ACM Computing Surveys]. The journal is ranked 3/221 in Computer Science Theory & Methods (Impact Factor: 7.99):
 
