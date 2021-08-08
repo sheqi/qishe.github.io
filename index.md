@@ -18,17 +18,17 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 - [2021-06-13] I am invited as the reviewer for **ICLR 2022**.
 
-- [2021-04-12] **<font color="#dd0000">Paper</font>**] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
+- [2021-04-12] [**<font color="#dd0000">Paper</font>**] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
 
 - [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
 
-- [2021-03-04] **<font color="#dd0000">Paper</font>**] We have **3** paper accepted into **CVPR 2021** !
+- [2021-03-04] [**<font color="#dd0000">Paper</font>**] We have **3** paper accepted into **CVPR 2021** !
 
 - [2020-12-14] Our workshop proposal "Continual Learnig in Computer Vision" has been accepted by **CVPR 2021**, which is selected out of 109 proposals.
 
 - [2020-12-09] I am invited as the **expert reviewer** for **ICML 2021**.
 
-- [2020-11-24] **<font color="#dd0000">Paper</font>**] Our paper ["Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"][GAN Survey] has been accepted by [ACM Computing Surveys][ACM Computing Surveys]. The journal is ranked 3/221 in Computer Science Theory & Methods (Impact Factor: 7.99):
+- [2020-11-24] [**<font color="#dd0000">Paper</font>**] Our paper ["Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy"][GAN Survey] has been accepted by [ACM Computing Surveys][ACM Computing Surveys]. The journal is ranked 3/221 in Computer Science Theory & Methods (Impact Factor: 7.99):
 
 - [2020-10-21] I am pleased to receive the recognition of **top 10%** high-scoring reviewers from **NeurIPS 2020**.
 
@@ -36,13 +36,13 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 - [2020-06-14] We have successfully organized the 1st ["Continual Learning in Computer Vision"][CLVISION] workshop at **CVPR 2020**.
 
-- [2020-06-10] **<font color="#dd0000">Paper</font>**] Our paper "IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions]" has been published at [IEEE Robotics & Automation Magazine][IEEE RAM]. The journal is one of four top-tier journals in robotics field.
+- [2020-06-10] [**<font color="#dd0000">Paper</font>**] Our paper "IROS 2019 Lifelong Robotic Vision: Object Recognition Challenge [Competitions]" has been published at [IEEE Robotics & Automation Magazine][IEEE RAM]. The journal is one of four top-tier journals in robotics field.
 
-- [2020-06-01] **<font color="#dd0000">Paper</font>**] Our paper is accepted as the **Oral** presentation at the conference of Uncertainty in Artificial Intelligence (UAI). 
+- [2020-06-01] [**<font color="#dd0000">Paper</font>**] Our paper is accepted as the **Oral** presentation at the conference of Uncertainty in Artificial Intelligence (UAI). 
 
-- [2020-05-22] **<font color="#dd0000">Paper</font>**] Our paper “Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks” has been accepted by **Neurocomputing**.
+- [2020-05-22] [**<font color="#dd0000">Paper</font>**] Our paper “Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks” has been accepted by **Neurocomputing**.
 
-- [2020-01-22] **<font color="#dd0000">Paper</font>**] We have **2** papers regarding **lifelong robotic vision** accepted by **ICRA 2020**.
+- [2020-01-22] [**<font color="#dd0000">Paper</font>**] We have **2** papers regarding **lifelong robotic vision** accepted by **ICRA 2020**.
 
 
 ## **Awards**
