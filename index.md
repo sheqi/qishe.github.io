@@ -12,6 +12,12 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 
 ### **News**
+- [2021-07-24] We have **3** paper accepted into **ICCV 2021** !  
+
+- [2021-07-23] I am invited as the reviewer for **ACM MM 2021** industrial track.
+
+- [2021-06-13] I am invited as the reviewer for **ICLR 2022**.
+
 - [**<font color="#dd0000">New!</font>** 2021-04-12] Our paper "An Efficient and Flexible Spike Train Model via Empirical Bayes" has be accepted into **IEEE Transactions on Signal Processing (TSP)**.
 
 - [2021-04-06] I am invited as the reviewer for **NeurIPS 2021**.
@@ -45,7 +51,6 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
 - Outstanding Academic Performance Award, 2016
 
-## **Media reports**
 
 [ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
