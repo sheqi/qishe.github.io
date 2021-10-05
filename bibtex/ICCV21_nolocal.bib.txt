@@ -1,0 +1,6 @@
+@article{zhu2021unifying,
+  title={Unifying Nonlocal Blocks for Neural Networks},
+  author={Zhu, Lei and She, Qi and Li, Duo and Lu, Yanye and Kang, Xuejing and Hu, Jie and Wang, Changhu},
+  journal={arXiv preprint arXiv:2108.02451},
+  year={2021}
+}
