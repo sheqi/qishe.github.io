@@ -23,7 +23,7 @@ subtitle: publication
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <b>ACM Computing Surveys (CSUR)</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    <b>ACM Computing Surveys (CSUR)</b>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
