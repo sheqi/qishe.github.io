@@ -58,8 +58,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 [IEEE RAM]: https://ieeexplore.ieee.org/document/9113359
 [AI hackathon]: https://www.youtube.com/watch?v=u0RCcuZpmxg
 
-<div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
-	<h3> Analytics </h3>
+<div class="analytics">
 	{% include clastrmap.html %}
 	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
 </div>
