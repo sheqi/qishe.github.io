@@ -60,5 +60,4 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 <div class="analytics">
 	{% include clastrmap.html %}
-	<p> <small> If you are not seeing a map, please disable Ad block </small></p>
 </div>
