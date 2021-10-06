@@ -10,37 +10,37 @@ Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now worki
 
 ### **Education**
 
-He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the **City University of Hong Kong**(https://www.ee.cityu.edu.hk/) where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at **Princeton University**(https://www.princeton.edu/), advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
+He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the [**City University of Hong Kong**](https://www.ee.cityu.edu.hk/) where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at [**Princeton University**](https://www.princeton.edu/), advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
 
 <!--Before directly pursuing my Ph.D., he completed B.Eng. within 1% (2/230) in Information Engineering from NUPT, and his bachelor final year project ranked #1 out of 230. Previously, his research focused on statistical machine learning methods to extract hidden structure from high-dimensional neural data, infer brain connectivity using fully & empirical Bayes, and complex network study on multiple brain regions. Studying how information is encoded, decoded, and processed in our brains is one of his interests. Currently, he is developing a lifelong/continual adaptation agent that can shape a cultivated understanding of the world from the current scene and their previous knowledge via an autonomous lifelong development. The ongoing project is listed in "Lifelong Robotic Vision" project page.-->
 ### **Research**
 
-Qi has more than **30** peer-reviewed publications, including **CVPR, ICCV, ICLR, UAI, AAAI, ICRA, TSP, CSUR** etc. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and the organizer of the CVPR 2020 & 2021 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including **NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, CSUR, EJN** etc. He holds 5 granted/filed US patents, and 20 China patents. The work is more related to developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
+Qi has more than **30** peer-reviewed publications, including **CVPR, ICCV, ICLR, UAI, AAAI, ICRA, TSP, CSUR** etc. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and the organizer of the CVPR 2020 & 2021 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, CSUR, EJN etc. He holds 5 granted/filed US patents, and 20 China patents. The work is more related to developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
 
 Specifically, his research interests include topics as:
 
 **Statistical Machine Learning**
 
-- Qi was fascinated by **Bayesian theory** and used this tool for extracting hidden structure from high-dimensional neural data, inferring brain connectivity. Studying how information is encoded, decoded, and processed in the brain is one of his interests.
+- Qi was fascinated by Bayesian theory and used this tool for extracting hidden structure from high-dimensional neural data, inferring brain connectivity. Studying how information is encoded, decoded, and processed in the brain is one of his interests.
 
 
 **Dynamical Systems & RNNs**
 
-- He was also interested in modeling **time series data**, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
+- He was also interested in modeling time series data, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
 
 **Complex Network & Graph Neural Networks**
 
-- Adding meaningful structure to neural networks is definitely an important future direction that we need to understand. He has looked at the impact of **graph structured neural networks** or how to apply neural models to graph structured data.
+- Adding meaningful structure to neural networks is definitely an important future direction that we need to understand. He has looked at the impact of graph structured neural networks or how to apply neural models to graph structured data.
 
 
 **Theory for Representation Learning**
 
-- He is interested in understanding how neural networks work via utilizing **deep generative models, such as VAE, GAN, and normalizing flow models**.
+- He is interested in understanding how neural networks work via utilizing deep generative models, such as VAE, GAN, and normalizing flow models.
 
 
 **Advanced Learning Method**
 
-- **Continual Learning, Transfer Learning, Multi-task learning, Meta-learning, Curriculum Learning and Self-paced Learning** -- With the explicit goal of improving data efficiency, he has been working on multiple problems formulated around training with multiple tasks or efficient sampling.
+- Continual Learning, Transfer Learning, Multi-task learning, Meta-learning, Curriculum Learning and Self-paced Learning -- With the explicit goal of improving data efficiency, he has been working on multiple problems formulated around training with multiple tasks or efficient sampling.
 
 <!--
 # plainwhite
