@@ -23,7 +23,7 @@ subtitle: publication
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <b>ACM Computing Surveys (CSUR)</b>, 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    ACM Computing Surveys (<b>CSUR</b>), 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
@@ -52,7 +52,7 @@ arXiv
         <b> Qi She </b><code>*</code>, Xiaoli Wu, Beth Jelfs, Adam S. Charles, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <b>IEEE Transactions on Signal Processing (TSP)</b>, 2021. 
+    IEEE Transactions on Signal Processing (<b>TSP</b>), 2021. 
     </div>
 
 <p>
@@ -82,7 +82,7 @@ arXiv
      Zhengwei Wang, <b> Qi She </b><code>*</code>, Alan F Smeaton, Tomas E Ward, Graham Healy.
     </div>
     <div class="pub-publication">
-    <b>Neurocomputing</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
+    Neurocomputing, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
     </div>
 
 <p>
