@@ -12,6 +12,8 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 
 ### **News**
+- [2021-09-18] ByteDance Vision Tech team has won the 3rd Place in Google Landmark Recognition 2021 (the kaggle competition), refer to the [solution report here](https://arxiv.org/pdf/2110.02794.pdf)
+
 - [2021-07-24] [**<font color="#dd0000">Paper</font>**] We have **3** paper accepted into **ICCV 2021** !  
 
 - [2021-07-23] I am invited as the reviewer for **ACM MM 2021** industrial track.
@@ -46,6 +48,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 
 ## **Awards**
+- 3rd Place (3/383) in Google Landmark Recognition 2021, the kaggle competition
 - 5 times Intel China Awards, 2018-2020
 - Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, <b>戈登·摩尔奖</b>), 2020
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
