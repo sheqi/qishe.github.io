@@ -12,7 +12,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 
 ### **News**
-- [2021-09-18] ByteDance Vision Tech team has won the 3rd Place in Google Landmark Recognition 2021 (the kaggle competition), refer to the [solution report here](https://arxiv.org/pdf/2110.02794.pdf)
+- [2021-09-18] ByteDance Vision Tech team has won the 3rd Place (3/383) in Google Landmark Recognition 2021 (the kaggle competition), refer to the [solution report here](https://arxiv.org/pdf/2110.02794.pdf)
 
 - [2021-07-24] [**<font color="#dd0000">Paper</font>**] We have **3** paper accepted into **ICCV 2021** !  
 
