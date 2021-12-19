@@ -26,7 +26,7 @@ Specifically, his research interests include topics as:
 
 **Dynamical Systems & RNNs**
 
-- He was also interested in modeling time series data, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
+- He was also interested in modeling time series, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
 
 **Complex Network & Graph Neural Networks**
 
