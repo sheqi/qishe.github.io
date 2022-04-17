@@ -140,6 +140,43 @@ Nature Scientific Reports
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">[1]
+        <a href="https://sheqi.github.io/publication/cvpr2022_noisylabel/" itemprop="url">On Learning Contrastive Representations for Learning with Noisy Labels
+</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Li Yi, Sheng Liu, <b>Qi She</b><code>*</code>, , A. Ian McLeod, Boyu Wang
+    </div>
+    <div class="pub-publication">
+    International Conference on Computer Vision (<b>CVPR</b>), 2022.
+    <!--<img alt="GitHub stars" src="https://img.shields.io/github/stars/zh460045050/SNL_ICCV2021?label=Stars&style=social"> -->
+    </div>
+
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CVPR2022_noisylabel.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR2022_noisylabel.bib.txt">
+BibTex
+</a>
+
+ <!--
+<a class="btn btn-default" href="https://github.com/zh460045050/SNL_ICCV2021">
+Code
+</a>
+-->
+
+
+<a class="btn btn-default" href="https://arxiv.org/abs/2203.01785">
+arXiv
+</a>
+</p>
+
+
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">[1]
         <a href="https://sheqi.github.io/publication/iccv21_nonlocal/" itemprop="url">Unifying Nonlocal Blocks for Neural Networks</a>
     </span>
     <div class="pub-authors" itemprop="author">

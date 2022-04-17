@@ -1,0 +1,6 @@
+@inproceedings{yi2022learning,
+  title={On Learning Contrastive Representations for Learning with Noisy Labels},
+  author={Yi, Li and Liu, Sheng and She, Qi and McLeod, A Ian and Wang, Boyu},
+  booktitle={Computer Vision and Pattern Recognition},
+  year={2022}
+}
