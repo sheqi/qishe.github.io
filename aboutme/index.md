@@ -10,13 +10,12 @@ Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now worki
 
 ### **Education**
 
-He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the City University of Hong Kong where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at Princeton University, advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
+He obtained Ph.D. in machine learning and neural computation from the Department of Electronic Engineering (now Electrical Engineering) at the [**City University of Hong Kong**](https://www.ee.cityu.edu.hk/) where he was advised by [Prof. Rosa H.M. Chan](https://cityucompuneurolab.github.io/rosa.html). During this period, He won the 2nd place in the 10th Global Artificial Intelligence Hackathon funded by IBM Watson research. He is also closely collaborated with [Prof. Guanrong Chen](https://scholar.google.com/citations?user=O_Eif1YAAAAJ&hl=zh-CN) and [Prof. James Kwok](https://scholar.google.com/citations?user=-oTraZ4AAAAJ&hl=zh-CN), in complex networks and machine learning respectively. He used to be a fully-funded Visiting Student Research Collaborator (VSRC) at [**Princeton University**](https://www.princeton.edu/), advised by [Prof. Jonathan Pillow](https://pillowlab.princeton.edu/people.html), studying latent subspace discovery from high-dimensional neural responses.
 
 <!--Before directly pursuing my Ph.D., he completed B.Eng. within 1% (2/230) in Information Engineering from NUPT, and his bachelor final year project ranked #1 out of 230. Previously, his research focused on statistical machine learning methods to extract hidden structure from high-dimensional neural data, infer brain connectivity using fully & empirical Bayes, and complex network study on multiple brain regions. Studying how information is encoded, decoded, and processed in our brains is one of his interests. Currently, he is developing a lifelong/continual adaptation agent that can shape a cultivated understanding of the world from the current scene and their previous knowledge via an autonomous lifelong development. The ongoing project is listed in "Lifelong Robotic Vision" project page.-->
 ### **Research**
 
-Qi has more than **30** peer-reviewed publications, including CVPR, ICLR, UAI, AAAI, ICRA etc. He was the organizer of the IROS 2019 Lifelong Robotic Vision Challenge and the organizer of the CVPR 2020 & 2021 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, EJN etc. He holds 5 granted/filed US patents. The work is more related to robotics, more broadly autonomous systems using visual learning methods, and developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
-
+Qi has more than **40** peer-reviewed publications, including **CVPR, ICCV, ICLR, UAI, AAAI, ICRA, BMVC, Artificial intelligence, TSP, CSUR** etc. He was the organizer of IROS 2019 Lifelong Robotic Vision Challenge and the organizer of the CVPR 2020 & 2021 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, CSUR, EJN etc. He holds 5 granted/filed US patents, and 20 China patents. The work is more related to developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
 
 Specifically, his research interests include topics as:
 
@@ -27,7 +26,7 @@ Specifically, his research interests include topics as:
 
 **Dynamical Systems & RNNs**
 
-- He was also interested in modeling time series data, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
+- He was also interested in modeling time series, starting from dynamical systems to deep RNNs. This includes altering the optimizer and adding several regularizers to structure the hidden states and dependences of the dynamic/recurrent models.
 
 **Complex Network & Graph Neural Networks**
 

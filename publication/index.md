@@ -6,6 +6,8 @@ subtitle: publication
 
 ### **Selected Top-tier Publication**
 
+[**<font >Note</font>**] the full and the most updated publication can be found at [Google Scholar：Qi She](https://scholar.google.com/citations?user=iHoGTt4AAAAJ&hl=zh-CN)
+
 #### **Journal**
 
 <div id="container-publications">
@@ -21,7 +23,7 @@ subtitle: publication
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
     </div>
     <div class="pub-publication">
-    <b>ACM Computing Surveys (CSUR)</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
+    ACM Computing Surveys (<b>CSUR</b>), 2021. <img alt="GitHub stars" src="https://img.shields.io/github/stars/sheqi/GAN_Review?label=Stars&style=social">
     </div>
 
 <p>
@@ -50,7 +52,7 @@ arXiv
         <b> Qi She </b><code>*</code>, Xiaoli Wu, Beth Jelfs, Adam S. Charles, Rosa H. M. Chan.
     </div>
     <div class="pub-publication">
-    <b>IEEE Transactions on Signal Processing (TSP)</b>, 2021. 
+    IEEE Transactions on Signal Processing (<b>TSP</b>), 2021. 
     </div>
 
 <p>
@@ -80,7 +82,7 @@ arXiv
      Zhengwei Wang, <b> Qi She </b><code>*</code>, Alan F Smeaton, Tomas E Ward, Graham Healy.
     </div>
     <div class="pub-publication">
-    <b>Neurocomputing</b>, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
+    Neurocomputing, 2020. <img alt="GitHub stars" src="https://img.shields.io/github/stars/villawang/Neuro-AI-Interface?label=Stars&style=social">
     </div>
 
 <p>
@@ -136,9 +138,105 @@ Nature Scientific Reports
 <div class="row">
 <div class="col-xs-12 col-md-12">
 
-
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">[1]
+        <a href="https://sheqi.github.io/publication/iccv21_nonlocal/" itemprop="url">Unifying Nonlocal Blocks for Neural Networks</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Lei Zhu, <b>Qi She</b><code>*</code>(corresponding author), Duo Li, Yanye Lu, Xuejing Kang, Jie Hu, Changhu Wang
+    </div>
+    <div class="pub-publication">
+    International Conference on Computer Vision (<b>ICCV</b>), 2021.
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/zh460045050/SNL_ICCV2021?label=Stars&style=social">
+    </div>
+
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICCV2021_nonlocal.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICCV21_nonlocal.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/zh460045050/SNL_ICCV2021">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/2108.02451">
+arXiv
+</a>
+</p>
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">[2]
+        <a href="https://sheqi.github.io/publication/iccv21_mtorl/" itemprop="url">MT-ORL: Multi-Task Occlusion Relationship Learning</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Panhe Feng, <b>Qi She</b><code>*</code>, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, Xuejing Kang, Anlong Ming.
+    </div>
+    <div class="pub-publication">
+    International Conference on Computer Vision (<b>ICCV</b>), 2021.
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/fengpanhe/MT-ORL?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICCV2021_mtorl.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICCV21_mtorl.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/fengpanhe/MT-ORL">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/2108.05722">
+arXiv
+</a>
+</p>
+
+
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">[3]
+        <a href="https://sheqi.github.io/publication/iccv21_mine/" itemprop="url">MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis</a>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Jiaxin Li, Zijian Feng, <b>Qi She</b><code>*</code>, Henghui Ding, Changhu Wang, Gim Hee Lee.
+    </div>
+    <div class="pub-publication">
+    International Conference on Computer Vision (<b>ICCV</b>), 2021.
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/vincentfung13/MINE?label=Stars&style=social">
+    </div>
+
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICCV2021_mine.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICCV21_mine.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/vincentfung13/MINE">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/2103.06255">
+arXiv
+</a>
+</p>
+
+
+
+
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">[4]
         <a href="https://sheqi.github.io/publication/cvpr21_involution/" itemprop="url">Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -169,7 +267,7 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[2]
+    <span itemprop="name">[5]
         <a href="https://sheqi.github.io/publication/cvpr21_actionnet/" itemprop="url">ACTION-Net: Multipath Excitation for Action Recognition</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -198,7 +296,7 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[3]
+    <span itemprop="name">[6]
         <a href="https://sheqi.github.io/publication/cvpr21_superpixel/" itemprop="url">Learning the Superpixel in a Non-iterative and Lifelong Manner</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -220,7 +318,7 @@ BibTex
 
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[4]
+    <span itemprop="name">[7]
         <a href="https://sheqi.github.io/publication/icra20_openloris_obj/" itemprop="url">OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -253,7 +351,7 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[5]
+    <span itemprop="name">[8]
         <a href="https://sheqi.github.io/publication/icra20_openloris_scene/" itemprop="url">Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -282,7 +380,7 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[6]
+    <span itemprop="name">[9]
         <a href="https://sheqi.github.io/publication/uai19/" itemprop="url">Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -320,7 +418,7 @@ arXiv
 
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[7]
+    <span itemprop="name">[10]
         <a href="https://sheqi.github.io/publication/aaai18/" itemprop="url">Reduced-Rank Linear Dynamical Systems</a>
     </span>
     <div class="pub-authors" itemprop="author">
@@ -349,7 +447,7 @@ arXiv
 </p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-    <span itemprop="name">[8]
+    <span itemprop="name">[11]
         <a href="https://sheqi.github.io/publication/icassp18/" itemprop="url">Stochastic Dynamical Systems Based Latent Structure Discovery in High-dimensional Time Series</a>
     </span>
     <div class="pub-authors" itemprop="author">

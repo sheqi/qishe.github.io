@@ -47,6 +47,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 
 ## **Awards**
+- 3rd Place (3/383) in Google Landmark Recognition 2021, the kaggle competition
 - 5 times Intel China Awards, 2018-2020
 - Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, <b>戈登·摩尔奖</b>), 2020
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
@@ -58,3 +59,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 [GAN Survey]:https://arxiv.org/abs/1906.01529
 [IEEE RAM]: https://ieeexplore.ieee.org/document/9113359
 [AI hackathon]: https://www.youtube.com/watch?v=u0RCcuZpmxg
+
+<div class="analytics">
+	{% include clastrmap.html %}
+</div>
