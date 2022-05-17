@@ -9,6 +9,8 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 [**<font color="#dd0000">Hiring!</font>**] Recruiting scientists, engineers, and research/engineering interns in machine learning or computer vision at Beijing, Shanghai and Singapore. Feel free to [contact me](mailto:sheqi.roger@bytedance.com) !
 
 ### **News**
+- [2022-05-15] [**<font color="#dd0000">Paper</font>**] Our work "PDO-e3DCNNs" is accepted into **ICML 2022** ! 
+
 - [2022-03-03] [**<font color="#dd0000">Paper</font>**] We have **3** paper accepted into **CVPR 2022** ! 
 
 - [2022-02-16] [**<font color="#dd0000">Paper</font>**] Glad to know that "Newton Design: Designing CNNs with the Family of Newton's Methods" has been accepted into Science China (Information Sciences).
