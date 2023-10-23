@@ -61,7 +61,7 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 ## **Outcomes**
 - In general, until 2023/10, I hold **2100 citations** from Google Sholar, with **h index: 19, i10 index 25**，publishing at TPAMI, TNNLS, TSP, CSUR, Nature Scientific Reports, ICML, CVPR, ICCV, ICLR, AAAI etc; and holding **5** US patents, and **20+** China patents.
-- At byetedance, I launched several ranking models/computer vision solutions as baselines; and at Intel Labs, I am the first contributor of Lifelong Robotic Vision[Lifelong Robotic Vision].
+- At byetedance, I launched several ranking models/computer vision solutions as baselines; and at Intel Labs, I am the first contributor of [Lifelong Robotic Vision].
 
 ## **Awards**
 - Bytedance Monetization Product and Technolog Q2 Inspire Award, Sept. 2023
