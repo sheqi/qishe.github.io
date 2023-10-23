@@ -6,7 +6,7 @@ subtitle: Brief Introduction
 
 ### **About me**
 
-Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now working as a Research Scientist at [Bytedance](https://www.bytedance.com/zh/), focusing on landing advanced machine learning, computer vision techniques in Bytedance AI products, e.g., developing ads ranking model & ads recommendation system in Douyin & TikTok. He used to be a Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
+Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now working as a Research Scientist at [Bytedance](https://www.bytedance.com/zh/), focusing on landing advanced machine learning, computer vision techniques in Bytedance AI products, e.g., developing ads ranking model&system, computer vision solutions in Douyin & TikTok. He used to be a Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
 
 ### **Education**
 
