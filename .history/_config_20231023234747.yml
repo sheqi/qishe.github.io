@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Qi She (佘琪)
-  tagline: Deep Learning Researher
+  tagline: Deep Learning Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -29,6 +29,8 @@ plainwhite:
       url: "/publication"
     - title: About me
       url: "/aboutme"
+    - title: Blog
+      url: https://qishe.wordpress.com/
     #- title: CV
     #  url: "/cv"
   # generate social links in footer
@@ -61,7 +63,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag
