@@ -8,7 +8,7 @@ subtitle: publication
 
 [**<font >Note</font>**] the full and the most updated publication can be found at [Google Scholar：Qi She](https://scholar.google.com/citations?user=iHoGTt4AAAAJ&hl=zh-CN)
 
-#### **Journal**
+#### **Journal** (data update until 2021)
 
 <div id="container-publications">
 <div class="row">
