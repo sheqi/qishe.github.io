@@ -4,7 +4,8 @@ title:  Qi She
 date:   2020-12-14 21:03:36 +0530
 ---
 
-I am currently a research scientist at ByteDance, focusing on applying machine learning and computer vision techniques in Bytedance AI products. Before that, I was a research scientist at Intel Labs.
+### **Recent Focus**
+I am currently leading Applied Algorithm team in Business Integrity at ByteDance, focusing on applying (Multi Modal) Large Language Model、Machine Learning and Computer Vision techniques in AI products. Before that, I was a research scientist at Intel Labs.
 
 [**<font color="#dd0000">Hiring!</font>**] Recruiting scientists, engineers, and research/engineering interns in machine learning or computer vision at Beijing, Shanghai and Hangzhou. Feel free to [contact me](mailto:sheqi.roger@bytedance.com) !
 
@@ -59,18 +60,20 @@ I am currently a research scientist at ByteDance, focusing on applying machine l
 
 - [2020-01-22] [**<font color="#dd0000">Paper</font>**] We have **2** papers regarding **lifelong robotic vision** accepted by **ICRA 2020**.
 
+<!--
 ## **Outcomes**
 - In general, until 2023/10, I hold **2100 citations** from Google Sholar, with **h index: 19, i10 index 25**，publishing at TPAMI, TNNLS, TSP, CSUR, Nature Scientific Reports, ICML, CVPR, ICCV, ICLR, AAAI etc; and holding **5** US patents, and **20+** China patents.
 - At byetedance, I launched several ranking models/computer vision solutions as baselines; and at Intel Labs, I am the first contributor of [Lifelong Robotic Vision].
+-->
 
 ## **Awards**
-- Bytedance Monetization Product and Technolog Q2 Inspire Award, Sept. 2023
+- Bytedance Monetization Product and Technolog Q4 Inspire Award (团队奖), March. 2024
+- Bytedance Monetization Product and Technolog Q2 Inspire Award（团队奖）, Sept. 2023
 - 3rd Place (3/383) in Google Landmark Recognition 2021, the kaggle competition
 - 5 times Intel China Awards, 2018-2020
 - Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, <b>戈登·摩尔奖</b>, famous for <b>摩尔定律</b>), 2020
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
 - Outstanding Academic Performance Award, 2016
-
 
 [ACM Computing Surveys]: https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=19
 [CLVISION]: https://sites.google.com/view/clvision2020/overview?authuser=0
