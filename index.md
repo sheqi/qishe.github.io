@@ -5,9 +5,9 @@ date:   2020-12-14 21:03:36 +0530
 ---
 
 ### **Recent Focus**
-- I am currently leading Applied Algorithm team in Business Integrity at ByteDance, focusing on applying (Multi Modal) Large Language Model、Machine Learning and Computer Vision techniques in AI products. Before that, I was a research scientist at Intel Labs.
+I am currently leading Applied Algorithm team in Business Integrity at ByteDance, focusing on applying (Multi Modal) Large Language Model、Machine Learning and Computer Vision techniques in AI products. Before that, I was a research scientist at Intel Labs.
 
-- [**<font color="#dd0000">Hiring!</font>**] Recruiting scientists, engineers, and research/engineering interns in Multi Modal Large Language Model at Beijing, Shanghai and Hangzhou! 多模态大模型算法工程师/应用研究员招聘中（SFT/RM/RLHF/Pretrain/Agent框架等）， 和优秀人才一起探索并落地多模态大模型，在业务场景做深度适配和极致优化，寻找具备出色问题分析与解决能力的候选人～ Feel free to [contact me](mailto:sheqi.roger@bytedance.com) ! 
+[**<font color="#dd0000">Hiring!</font>**] Recruiting scientists, engineers, and research/engineering interns in Multi Modal Large Language Model at Beijing, Shanghai and Hangzhou! 多模态大模型算法工程师/应用研究员招聘中（SFT/RM/RLHF/Pretrain/Agent框架等）， 和优秀人才一起探索并落地多模态大模型，在业务场景做深度适配和极致优化，寻找具备出色问题分析与解决能力的候选人～ Feel free to [contact me](mailto:sheqi.roger@bytedance.com) ! 
 
 ### **News**
 - [2023-08-25] I am invited as the reviewer for **ICLR 2024**.
