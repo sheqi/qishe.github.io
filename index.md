@@ -67,10 +67,9 @@ I am currently leading Applied Algorithm team in Business Integrity at ByteDance
 -->
 
 ## **Awards**
-- Bytedance Monetization Product and Technolog Q4 Inspire Award (团队奖), March. 2024
-- Bytedance Monetization Product and Technolog Q2 Inspire Award（团队奖）, Sept. 2023
+- Bytedance Monetization Product and Technolog Q2/Q4 Inspire Award (<b>团队奖</b>), Sept. 2023 & March. 2024
 - 3rd Place (3/383) in Google Landmark Recognition 2021, the kaggle competition
-- 5 times Intel China Awards, 2018-2020
+- 5 times Intel China Awards, 2018 Q4、2019 Q1、2019 Q3、2020 Q1、& 2020 Q2
 - Annual Intel Labs Gordy Awards (the highest annual research award named after Intel’s co-founder Gordon Earle Moore, <b>戈登·摩尔奖</b>, famous for <b>摩尔定律</b>), 2020
 - 2nd place in the [10th Global Artificial Intelligence Hackathon][AI hackathon] by Korea ministry of ICT, 2016
 - Outstanding Academic Performance Award, 2016
