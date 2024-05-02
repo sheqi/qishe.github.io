@@ -25,6 +25,24 @@ subtitle: publication
     IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>PAMI</b>), 2023. 
     </div>
 
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
+arXiv
+</a>
+</p>
+
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">[2]
         <a>Power Law in Deep Neural Networks: Sparse Network Generation and Continual Learning With Preferential Attachment</a>
@@ -35,6 +53,24 @@ subtitle: publication
     <div class="pub-publication">
     IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2022. 
     </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
+arXiv
+</a>
+</p>
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">[3]
@@ -171,6 +207,25 @@ Nature Scientific Reports
     International Conference on Machine Learning (<b>ICML</b>), 2022.
     <!--<img alt="GitHub stars" src="https://img.shields.io/github/stars/zh460045050/SNL_ICCV2021?label=Stars&style=social"> -->
     </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
+Code
+</a>
+
+<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
+arXiv
+</a>
+</p>
+
 
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">[2]
