@@ -6,7 +6,7 @@ subtitle: Brief Introduction
 
 ### **About me**
 
-Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now leading Applied Algorithm (应用算法) department in Business Integrity at [Bytedance](https://www.bytedance.com/zh/), focusing on landing multi-modal Large Language Model, machine learning, computer vision techniques in Bytedance AI products. He used to be a Research Scientist at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
+Qi She was born in Yangzhou (扬州), Jiangsu (江苏) province. He is now leading Applied Algorithm (应用算法) department in Business Integrity at [**Bytedance**](https://www.bytedance.com/zh/), focusing on landing multi-modal Large Language Model, machine learning, computer vision techniques in Bytedance AI products. He used to be a Research Scientist at [**Intel Labs**](https://www.intel.com/content/www/us/en/research/overview.html) from 2018 to 2020, studying statistical machine learning, deep learning with applications in computer vision, and robotics.
 
 ### **Education**
 
@@ -18,6 +18,7 @@ He obtained Ph.D. in machine learning and neural computation from the Department
 Qi has more than **50** peer-reviewed publications, including **ICML, UAI, CVPR, ICCV, ICLR, AAAI, ICRA, BMVC, TPAMI，TNNLS，Artificial intelligence, TSP, CSUR** etc. He was the organizer of IROS 2019 Lifelong Robotic Vision Challenge and the organizer of the CVPR 2020 & 2021 Continual Learning in Computer Vision Workshop, also works as the PC member of ICONIP 2019 and serves as a reviewer for prestigious conferences and journals including NeurIPS, ICML, ICLR, CVPR, AAAI, IJCAI, ICONIP, TSP, CSUR, EJN etc. He holds 5 granted/filed US patents, and 20 China patents. The work is more related to developing a continual learning framework/toolkit benefiting quickly prototyping the continual/few-shot/meta-learning applications.
 
 Specifically, his research interests include topics as:
+
 **Multi Modal Large Language Model & LLM-based Agent**
 - Exploring potential influences using LLM both in fundamental multi modal solutions and novel applications. 
 
