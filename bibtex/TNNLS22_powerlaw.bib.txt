@@ -1,0 +1,10 @@
+@ARTICLE{9941061,
+  author={Feng, Fan and Hou, Lu and She, Qi and Chan, Rosa H. M. and Kwok, James T.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Power Law in Deep Neural Networks: Sparse Network Generation and Continual Learning With Preferential Attachment}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Task analysis;Network topology;Topology;Training;Deep learning;Computational modeling;Social networking (online);Complex networks;continual learning;network pruning;power law distribution},
+  doi={10.1109/TNNLS.2022.3217403}}

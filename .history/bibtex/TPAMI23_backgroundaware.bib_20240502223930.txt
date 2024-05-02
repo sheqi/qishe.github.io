@@ -1,0 +1,1 @@
+L. Zhu, Q. She et al., "Background-Aware Classification Activation Map for Weakly Supervised Object Localization," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 12, pp. 14175-14191, Dec. 2023, doi: 10.1109/TPAMI.2023.3309621.

@@ -1,0 +1,8 @@
+@inproceedings{shen2022pdo,
+  title={Pdo-s3dcnns: Partial differential operator based steerable 3d cnns},
+  author={Shen, Zhengyang and Hong, Tao and She, Qi and Ma, Jinwen and Lin, Zhouchen},
+  booktitle={International Conference on Machine Learning},
+  pages={19827--19846},
+  year={2022},
+  organization={PMLR}
+}

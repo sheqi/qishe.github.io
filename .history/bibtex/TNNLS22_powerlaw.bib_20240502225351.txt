@@ -1,0 +1,1 @@
+F. Feng, L. Hou, Q. She, R. H. M. Chan and J. T. Kwok, "Power Law in Deep Neural Networks: Sparse Network Generation and Continual Learning With Preferential Attachment," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3217403.

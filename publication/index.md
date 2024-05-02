@@ -20,28 +20,25 @@ subtitle: publication
         <i>Background-aware Classification Activation Map for Weakly Supervised Object Localization</i>  
     </span>
     <div class="pub-authors" itemprop="author">
-        L Zhu, <b> Q She </b>, Q Chen, X Meng, M Geng, L Jin, Y Zhang, Q Ren, Y Lu
+        Lei Zhu, <b>Qi She</b>, Qian Chen, Xiangxi Meng, Mufeng Geng, Lujia Jin, Yibao Zhang, Qiushi Ren, Yanye Lu
     </div>
     <div class="pub-publication">
     IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>PAMI</b>), 2023. 
     </div>
 
 <p>
-<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/TPAMI2023_backgroundaware.pdf">
 PDF
 </a>
 
-<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/TPAMI2023_backgroundaware.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
+<a class="btn btn-default" href="https://github.com/zh460045050/BCAM">
 Code
 </a>
 
-<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
-arXiv
-</a>
 </p>
 </li>
 </ul> 
@@ -53,28 +50,17 @@ arXiv
         <i>Power Law in Deep Neural Networks: Sparse Network Generation and Continual Learning With Preferential Attachment</i>
     </span>
     <div class="pub-authors" itemprop="author">
-        F Feng, L Hou, <b> Q She </b>, RHM Chan, JT Kwok
+        Fan Feng, Lu Hou, <b> Qi She </b>, Rosa H. M. Chan, James T Kwok
     </div>
     <div class="pub-publication">
     IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2022. 
     </div>
 
 <p>
-<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
-PDF
-</a>
-
-<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/TNNLS22_powerlaw.bib.txt">
 BibTex
 </a>
 
-<a class="btn btn-default" href="https://github.com/sheqi/GAN_Review">
-Code
-</a>
-
-<a class="btn btn-default" href="https://arxiv.org/abs/1906.01529">
-arXiv
-</a>
 </p>
 </li>
 </ul> 
@@ -83,7 +69,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</a>
+        <i>Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhengwei Wang, <b> Qi She </b><code>*</code> (corresponding author), Tomas E Ward.
@@ -116,7 +102,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>An Effcient and Flexible Spike Train Model via Empirical Bayes</a>
+        <i>An Effcient and Flexible Spike Train Model via Empirical Bayes</i>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Xiaoli Wu, Beth Jelfs, Adam S. Charles, Rosa H. M. Chan.
@@ -149,7 +135,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Synthetic-Neuroscore: Using a Neuro-AI Interface for Evaluating Generative Adversarial Networks</a>
+        <i>Synthetic-Neuroscore: Using a Neuro-AI Interface for Evaluating Generative Adversarial Networks</i>
     </span>
     <div class="pub-authors" itemprop="author">
      Zhengwei Wang, <b> Qi She </b><code>*</code>, Alan F Smeaton, Tomas E Ward, Graham Healy.
@@ -182,7 +168,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Evaluating the Small-World-Ness of a Sampled Network: Functional Connectivity of Entorhinal-Hippocampal Circuitry</a>
+        <i>Evaluating the Small-World-Ness of a Sampled Network: Functional Connectivity of Entorhinal-Hippocampal Circuitry</i>
     </span>
     <div class="pub-authors" itemprop="author">
      <b> Qi She </b><code>*</code>, Guanrong Chen, Rosa H. M. Chan.
@@ -221,8 +207,8 @@ Nature Scientific Reports
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>PDO-s3DCNNs: Partial Differential Operator Based Steerable 3D CNNs
-</a>
+        <i>PDO-s3DCNNs: Partial Differential Operator Based Steerable 3D CNNs
+</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhenyang Shen, Tao Hong, <b>Qi She</b><code>*</code>, Jinwei Ma, Zhouchen Lin
@@ -233,11 +219,11 @@ Nature Scientific Reports
     </div>
 
 <p>
-<a class="btn btn-default" href="https://sheqi.github.io/pdf/CSUR20.pdf">
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/ICML2022_PDO.pdf">
 PDF
 </a>
 
-<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CSUR20.bib.txt">
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/ICML22_PDO.bib.txt">
 BibTex
 </a>
 
@@ -257,8 +243,8 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>On Learning Contrastive Representations for Learning with Noisy Labels
-</a>
+        <i>On Learning Contrastive Representations for Learning with Noisy Labels
+</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Li Yi, Sheng Liu, <b>Qi She</b><code>*</code>, , A. Ian McLeod, Boyu Wang
@@ -297,7 +283,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Unifying Nonlocal Blocks for Neural Networks</a>
+        <i>Unifying Nonlocal Blocks for Neural Networks</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Lei Zhu, <b>Qi She</b><code>*</code>(corresponding author), Duo Li, Yanye Lu, Xuejing Kang, Jie Hu, Changhu Wang
@@ -332,7 +318,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>MT-ORL: Multi-Task Occlusion Relationship Learning</a>
+        <i>MT-ORL: Multi-Task Occlusion Relationship Learning</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Panhe Feng, <b>Qi She</b><code>*</code>, Lei Zhu, Jiaxin Li, Lin ZHANG, Zijian Feng, Changhu Wang, Chunpeng Li, Xuejing Kang, Anlong Ming.
@@ -367,7 +353,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis</a>
+        <i>MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Jiaxin Li, Zijian Feng, <b>Qi She</b><code>*</code>, Henghui Ding, Changhu Wang, Gim Hee Lee.
@@ -403,7 +389,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Involution: Inverting the Inherence of Convolution for Visual Recognition</a>
+        <i>Involution: Inverting the Inherence of Convolution for Visual Recognition</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, <b>Qi She</b><code>*</code>, Lei Zhu, Tong Zhang, Qifeng Chen.
@@ -438,7 +424,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>ACTION-Net: Multipath Excitation for Action Recognition</a>
+        <i>ACTION-Net: Multipath Excitation for Action Recognition</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhengwei Wang, <b>Qi She</b><code>*</code>, Aljosa Smolic.
@@ -471,7 +457,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Learning the Superpixel in a Non-iterative and Lifelong Manner</a>
+        <i>Learning the Superpixel in a Non-iterative and Lifelong Manner</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Lei Zhu, <b>Qi She</b><code>*</code>, Bin Zhang, Yanye Lu, Zhilin Lu, Duo Li, Jie Hu.
@@ -496,7 +482,7 @@ BibTex
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning</a>
+        <i>OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning</i>
     </span>
     <div class="pub-authors" itemprop="author">
         <b>Qi She</b><code>*</code>, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan.
@@ -533,7 +519,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM</a>
+        <i>Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM</i>
     </span>
     <div class="pub-authors" itemprop="author">
      Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, <b>Qi She</b><code>*</code>
@@ -566,7 +552,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</a>
+        <i>Neural Dynamics Discovery via Gaussian Process Recurrent Neural Networks</i>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Anqi Wu.
@@ -607,7 +593,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Reduced-Rank Linear Dynamical Systems</a>
+        <i>Reduced-Rank Linear Dynamical Systems</i>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Yuan Gao, Kai Xu, and Rosa H.M. Chan.
@@ -640,7 +626,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <a>Stochastic Dynamical Systems Based Latent Structure Discovery in High-dimensional Time Series</a>
+        <i>Stochastic Dynamical Systems Based Latent Structure Discovery in High-dimensional Time Series</i>
     </span>
     <div class="pub-authors" itemprop="author">
         <b> Qi She </b><code>*</code>, Rosa H.M. Chan.

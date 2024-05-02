@@ -1,0 +1,10 @@
+@ARTICLE{10234096,
+  author={Zhu, Lei and She, Qi and Chen, Qian and Meng, Xiangxi and Geng, Mufeng and Jin, Lujia and Zhang, Yibao and Ren, Qiushi and Lu, Yanye},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Background-Aware Classification Activation Map for Weakly Supervised Object Localization}, 
+  year={2023},
+  volume={45},
+  number={12},
+  pages={14175-14191},
+  keywords={Location awareness;Training;Transformers;Task analysis;Biomedical imaging;Annotations;Visualization;Object localization;weakly supervised learning;weakly supervised object localization},
+  doi={10.1109/TPAMI.2023.3309621}}
