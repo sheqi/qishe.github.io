@@ -23,7 +23,7 @@ subtitle: publication
         Lei Zhu, <b>Qi She</b>, Qian Chen, Xiangxi Meng, Mufeng Geng, Lujia Jin, Yibao Zhang, Qiushi Ren, Yanye Lu
     </div>
     <div class="pub-publication">
-    IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>PAMI</b>), 2023. 
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2023. 
     </div>
 
 <p>
@@ -69,7 +69,7 @@ BibTex
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <i>Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy</i>
+        <i>Generative Adversarial Networks in <b>Computer Vision</b>: A Survey and Taxonomy</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Zhengwei Wang, <b> Qi She </b>, Tomas E Ward.
@@ -102,7 +102,7 @@ arXiv
 <li>
 <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
     <span itemprop="name">
-        <i>Generative Adversarial Networks in Time Series: A Systematic Literature Review</i>
+        <i>Generative Adversarial Networks in <b>Time Series</b>: A Systematic Literature Review</i>
     </span>
     <div class="pub-authors" itemprop="author">
         Eoin Brophy, Zhengwei Wang, <b> Qi She </b>, Tomas E Ward.
@@ -263,6 +263,39 @@ arXiv
 </li>
 </ul> 
 
+<ul> 
+<li>
+<i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+    <span itemprop="name">
+        <i>Weakly Supervised Object Localization as Domain Adaption
+</i>
+    </span>
+    <div class="pub-authors" itemprop="author">
+        Lei Zhu, <b>Qi She</b>, Qian Chen, Yunfei You, Boyu Wang, Yanye Lu
+    </div>
+    <div class="pub-publication">
+    Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/zh460045050/DA-WSOL_CVPR2022?label=Stars&style=social">
+    </div>
+
+<p>
+<a class="btn btn-default" href="https://sheqi.github.io/pdf/CVPR2022_WDA.pdf">
+PDF
+</a>
+
+<a class="btn btn-default" href="https://sheqi.github.io/bibtex/CVPR22_WDA.bib.txt">
+BibTex
+</a>
+
+<a class="btn btn-default" href="https://github.com/zh460045050/DA-WSOL_CVPR2022">
+Code
+</a>
+
+</p>
+</li>
+</ul> 
+
+
 
 <ul> 
 <li>
@@ -275,7 +308,7 @@ arXiv
         Li Yi, Sheng Liu, <b>Qi She</b>, , A. Ian McLeod, Boyu Wang
     </div>
     <div class="pub-publication">
-    International Conference on Computer Vision (<b>CVPR</b>), 2022.
+    Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.
     <!--<img alt="GitHub stars" src="https://img.shields.io/github/stars/zh460045050/SNL_ICCV2021?label=Stars&style=social"> -->
     </div>
 

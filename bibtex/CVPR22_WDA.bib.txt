@@ -1,0 +1,7 @@
+@inproceedings{zhu2022weakly,
+  title={Weakly supervised object localization as domain adaption},
+  author={Zhu, Lei and She, Qi and Chen, Qian and You, Yunfei and Wang, Boyu and Lu, Yanye},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14637--14646},
+  year={2022}
+}
