@@ -1,0 +1,7 @@
+@InProceedings{Wang_2020_CVPR_Workshops,
+author = {Wang, Zhengwei and She, Qi and Chalasani, Tejo and Smolic, Aljosa},
+title = {CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
+}
