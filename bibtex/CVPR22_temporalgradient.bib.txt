@@ -1,0 +1,8 @@
+@InProceedings{Xiao_2022_CVPR,
+    author    = {Xiao, Junfei and Jing, Longlong and Zhang, Lin and He, Ju and She, Qi and Zhou, Zongwei and Yuille, Alan and Li, Yingwei},
+    title     = {Learning From Temporal Gradient for Semi-Supervised Action Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {3252-3262}
+}
