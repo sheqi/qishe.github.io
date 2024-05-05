@@ -35,7 +35,7 @@ plainwhite:
     #  url: "/cv"
   # generate social links in footer
   social_links:
-    researchgate: profile/Qi-She-3
+    researchgate: /profile/Qi-She-3
     #github:  sheqi
     linkedIn: in/qi-she-57ab259a
     twitter: sheqi1991
