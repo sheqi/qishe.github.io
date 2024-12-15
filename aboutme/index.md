@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Qi She（佘琪）
 subtitle: Brief Introduction
 ---
 
