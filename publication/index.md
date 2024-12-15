@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publication
+title: Qi She（佘琪）'s publication
 subtitle: publication
 ---
 
