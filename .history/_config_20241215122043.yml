@@ -1,4 +1,4 @@
-title: Qi She's website
+title: Qi She (佘琪)'s website
 author: GitHub User
 email: sheqi1991@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -35,10 +35,10 @@ plainwhite:
     #  url: "/cv"
   # generate social links in footer
   social_links:
-    researchgate: /profile/Qi-She-3
+    researchgate: profile/Qi-She-3
     #github:  sheqi
     linkedIn: in/qi-she-57ab259a
-    twitter: sheqi1991
+    #twitter: sheqi1991
   analytics_id: "G-G9J3D02VP5"
     #rss: rss
     #dribbble: jekyll
